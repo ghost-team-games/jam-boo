@@ -350,6 +350,8 @@ MonoBehaviour:
   cooldownTimer: 5
   animationLength: 1
   customFearAmount: 0
+  redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &162125841
 Animator:
   serializedVersion: 3
@@ -578,6 +580,8 @@ MonoBehaviour:
   cooldownTimer: 5
   animationLength: 1
   customFearAmount: 0
+  redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &346101770
 Animator:
   serializedVersion: 3
@@ -988,6 +992,8 @@ MonoBehaviour:
   cooldownTimer: 10
   animationLength: 2
   customFearAmount: 0
+  redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &1087208642
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1463,6 +1469,8 @@ MonoBehaviour:
   cooldownTimer: 7
   animationLength: 3
   customFearAmount: 0
+  redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &2108471142
 Animator:
   serializedVersion: 3
