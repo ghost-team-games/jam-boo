@@ -14,6 +14,8 @@ public class FearMeter : MonoBehaviour
     Image fearMeterFill;
 
     Action onFearAtMax;
+    float maxFear;
+    float fearDecreaseRate;
     float fear;
 
     public void SubscribeToFearAtMax(Action handler)
@@ -31,6 +33,12 @@ public class FearMeter : MonoBehaviour
         UpdateFear(amount);
     }
 
+    public void IncreaseFearChallenge(float maxFearIncrease, float fearDecreaseIncrement)
+    {
+        maxFear += maxFearIncrease;
+        fearDecreaseRate += fearDecreaseIncrement;
+    }
+
     private void UpdateFear(float? amount = null)
     {
         float increase = config.FearIncreaseAmount;
@@ -40,7 +48,7 @@ public class FearMeter : MonoBehaviour
         }
         fear += increase;
 
-        if(fear >= config.FearMax)
+        if(fear >= maxFear)
         {
             onFearAtMax();
         }
@@ -48,7 +56,9 @@ public class FearMeter : MonoBehaviour
 
     private void Awake()
     {
-        onFearAtMax = ResetFear;
+        maxFear = config.FearMax;
+        fearDecreaseRate = config.FearDecreaseRate;
+        onFearAtMax += ResetFear;
     }
 
     private void Update()
@@ -59,7 +69,7 @@ public class FearMeter : MonoBehaviour
         }
 
         UpdateFearMeter();
-        fear -= config.FearDecreaseRate;
+        fear -= fearDecreaseRate;
         fear = Mathf.Max(0, fear);
     }
 
@@ -70,6 +80,6 @@ public class FearMeter : MonoBehaviour
 
     private void UpdateFearMeter()
     {
-        fearMeterFill.fillAmount = fear / config.FearMax;
+        fearMeterFill.fillAmount = fear / maxFear;
     }
 }

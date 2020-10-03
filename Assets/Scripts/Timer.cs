@@ -25,6 +25,7 @@ public class Timer : MonoBehaviour
     public void RestartTimer()
     {
         timeRemainingSeconds = maxTime;
+        UpdateUI();
     }
 
     public void UpdateMaxTime(float maxTime)
