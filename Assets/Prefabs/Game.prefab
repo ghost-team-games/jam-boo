@@ -57,3 +57,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TimerStartSeconds: 120
+  FearDecreaseRate: 0.01
+  FearIncreaseAmount: 5
+  FearMax: 20
