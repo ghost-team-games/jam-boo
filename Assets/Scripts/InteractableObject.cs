@@ -1,13 +1,15 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
 using UnityEngine;
 
 
 public class InteractableObject : MonoBehaviour
 {
+    [SerializeField]
+    FearMeter fear;
+
     public float cooldownTimer;
     public float animationLength;
+    public float customFearAmount = 0;
 
     private Animator animator;
     private bool cooldown;
@@ -29,10 +31,17 @@ public class InteractableObject : MonoBehaviour
     {
         if (cooldown == false)
         {
-            //UnityEngine.Debug.Log("clicked");
             animator.SetBool("Haunt", true);
             StartCoroutine(AnimationDelay(animationLength));           
             cooldown = true;
+            if (customFearAmount > 0)
+            {
+                fear.IncreaseFearByAmount(customFearAmount);
+            }
+            else
+            {
+                fear.IncreaseFear();
+            }
         }
     }
 
