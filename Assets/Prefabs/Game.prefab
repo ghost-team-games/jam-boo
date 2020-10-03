@@ -44,6 +44,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc7a1055b780a49baa2ad0842b4cf48f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: {fileID: 0}
+  fear: {fileID: 0}
+  config: {fileID: 4055522125807125281}
 --- !u!114 &4055522125807125281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57,6 +60,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TimerStartSeconds: 120
-  FearDecreaseRate: 0.01
+  TimerMinSeconds: 30
+  TimerDecrease: 5
+  FearDecreaseRate: 0.005
   FearIncreaseAmount: 5
   FearMax: 20
+  FearMeterMaxIncrease: 1
+  FearDecreaseIncrement: 0.0005
