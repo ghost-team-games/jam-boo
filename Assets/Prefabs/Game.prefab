@@ -47,6 +47,11 @@ MonoBehaviour:
   timer: {fileID: 0}
   fear: {fileID: 0}
   config: {fileID: 4055522125807125281}
+  family: {fileID: 0}
+  generationsCounted: {fileID: 0}
+  pauseMenu: {fileID: 5079372167190494618, guid: 24b5975b218386240a0c8dfccd581091,
+    type: 3}
+  generationsScared: 0
 --- !u!114 &4055522125807125281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62,6 +67,7 @@ MonoBehaviour:
   TimerStartSeconds: 120
   TimerMinSeconds: 30
   TimerDecrease: 5
+  DelayBetweenLevels: 3
   FearDecreaseRate: 0.005
   FearIncreaseAmount: 5
   FearMax: 20
