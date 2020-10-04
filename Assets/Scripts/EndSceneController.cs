@@ -36,7 +36,6 @@ public class EndSceneController : MonoBehaviour
         mostGenerations.text = "Most Generations Survived: " + highScore;
 
     }
-
     // Update is called once per frame
     void Update()
     {
