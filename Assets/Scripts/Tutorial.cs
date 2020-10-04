@@ -13,7 +13,7 @@ public class Tutorial : MonoBehaviour
     [SerializeField]
     GameState state;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         firstRun = PlayerPrefs.GetInt("firstRun");
         //inTutorial = false;
