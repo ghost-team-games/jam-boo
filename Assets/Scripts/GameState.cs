@@ -21,6 +21,9 @@ public class GameState : MonoBehaviour
     [SerializeField]
     Text generationsCounted;
 
+    [SerializeField]
+    GameObject pauseMenu;
+
     float timerMaxSeconds;
     public int generationsScared;
 
@@ -45,7 +48,6 @@ public class GameState : MonoBehaviour
     public void Pause()
     {
         Paused = true;
-
     }
 
     public void NextLevel()
