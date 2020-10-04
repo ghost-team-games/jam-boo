@@ -1497,7 +1497,6 @@ GameObject:
   - component: {fileID: 561300253}
   - component: {fileID: 561300252}
   - component: {fileID: 561300251}
-  - component: {fileID: 561300250}
   - component: {fileID: 561300249}
   - component: {fileID: 561300248}
   - component: {fileID: 561300247}
@@ -1531,6 +1530,10 @@ GameObject:
   - component: {fileID: 561300233}
   - component: {fileID: 561300232}
   - component: {fileID: 561300231}
+  - component: {fileID: 561300277}
+  - component: {fileID: 561300276}
+  - component: {fileID: 561300275}
+  - component: {fileID: 561300250}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2217,9 +2220,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 561300270}
+  - {fileID: 561300258}
   selectedCommands:
-  - {fileID: 561300238}
+  - {fileID: 561300254}
   variables:
   - {fileID: 561300215}
   - {fileID: 561300230}
@@ -4454,7 +4457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 24
+  itemId: 69
   indentLevel: 4
   targetFlowchart: {fileID: 0}
   targetBlock: {fileID: 561300224}
@@ -5736,7 +5739,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 301.09848
+    x: 302.09848
     y: 211.25816
     width: 139
     height: 40
@@ -5747,8 +5750,8 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 561300256}
   - {fileID: 561300254}
+  - {fileID: 561300256}
   suppressAllAutoSelections: 0
 --- !u!114 &561300259
 MonoBehaviour:
@@ -7499,6 +7502,70 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &561300275
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 68
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 561300258}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &561300276
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a49012bdc794e429686c1eff7d9ced90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 561300277}
+  suppressBlockAutoSelect: 0
+  clickableObject: {fileID: 797475175}
+  waitFrames: 1
+--- !u!114 &561300277
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 139.11716
+    y: 124.78143
+    width: 112
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 67
+  blockName: Click Chair
+  description: 
+  eventHandler: {fileID: 561300276}
+  commandList:
+  - {fileID: 561300275}
+  suppressAllAutoSelections: 0
 --- !u!1001 &563197610
 PrefabInstance:
   m_ObjectHideFlags: 0
