@@ -37,8 +37,15 @@ public class InteractableObject : MonoBehaviour
     {
         if (cooldown == false)
         {
-            animator.SetBool("Haunt", true);
-            StartCoroutine(AnimationDelay(animationLength));           
+            if(animator)
+            {
+                animator.SetBool("Haunt", true);
+                StartCoroutine(AnimationDelay(animationLength));
+            }
+            else
+            {
+                StartCoroutine(CoolDownTimer(cooldownTimer));
+            }
             cooldown = true;
             if (customFearAmount > 0)
             {
