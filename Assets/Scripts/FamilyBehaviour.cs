@@ -30,6 +30,22 @@ public class FamilyBehaviour : MonoBehaviour
         }
     }
 
+    public void PauseWandering()
+    {
+        foreach(Person person in family)
+        {
+            person.Pause();
+        }
+    }
+
+    public void ResumeWandering()
+    {
+        foreach(Person person in family)
+        {
+            person.Play();
+        }
+    }
+
     public void RunAway()
     {
         foreach(Person person in family)

@@ -12,9 +12,19 @@ public class Tutorial : MonoBehaviour
 
     [SerializeField]
     GameState state;
+
+    [Header("Debug")]
+    [SerializeField]
+    bool disableTutorial = false;
+
     // Start is called before the first frame update
     void Awake()
     {
+        if(disableTutorial)
+        {
+            return;
+        }
+
         firstRun = PlayerPrefs.GetInt("firstRun");
         //inTutorial = false;
 

@@ -13,6 +13,7 @@ public class Person : MonoBehaviour
 
     Animator animator;
     IEnumerator travelCoroutine;
+    bool paused = false;
 
     private void Awake()
     {
@@ -33,6 +34,18 @@ public class Person : MonoBehaviour
     public void Wander()
     {
         WalkTo(navigation.GetWanderDestination());
+    }
+
+    public void Pause()
+    {
+        animator.StartPlayback();
+        paused = true;
+    }
+
+    public void Play()
+    {
+        animator.StopPlayback();
+        paused = false;
     }
 
     string GetAnimationTrigger(Vector3 toLocation)
@@ -103,8 +116,11 @@ public class Person : MonoBehaviour
         float timer = 0;
         while(timer < timeToWalk)
         {
-            transform.position = Vector3.Lerp(start, location, timer / timeToWalk);
-            timer += Time.deltaTime;
+            if(!paused)
+            {
+                transform.position = Vector3.Lerp(start, location, timer / timeToWalk);
+                timer += Time.deltaTime;
+            }
             yield return new WaitForEndOfFrame();
         }
         transform.position = location;
