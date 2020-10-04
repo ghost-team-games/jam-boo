@@ -42,11 +42,12 @@ public class FearMeter : MonoBehaviour
     private void UpdateFear(float? amount = null)
     {
         float increase = config.FearIncreaseAmount;
-        if (amount.HasValue)
+        if(amount.HasValue)
         {
             increase = amount.Value;
         }
         fear += increase;
+        UpdateFearMeter();
 
         if(fear >= maxFear)
         {
