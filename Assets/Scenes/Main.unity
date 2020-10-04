@@ -502,6 +502,11 @@ PrefabInstance:
       propertyPath: pauseMenu
       value: 
       objectReference: {fileID: 1318938558}
+    - target: {fileID: 4055522125807125295, guid: 8a8df8b4f38394404818b14d0cf2cf83,
+        type: 3}
+      propertyPath: ghost
+      value: 
+      objectReference: {fileID: 669845665}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a8df8b4f38394404818b14d0cf2cf83, type: 3}
 --- !u!114 &57679236 stripped
@@ -7875,6 +7880,7 @@ GameObject:
   - component: {fileID: 669845664}
   - component: {fileID: 669845663}
   - component: {fileID: 669845662}
+  - component: {fileID: 669845665}
   m_Layer: 0
   m_Name: Ghost
   m_TagString: Untagged
@@ -7966,6 +7972,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &669845665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 669845661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96972c798a7e54ee0a538cb9ced882f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &671229348
 GameObject:
   m_ObjectHideFlags: 0
@@ -11466,6 +11484,7 @@ MonoBehaviour:
   flowchart: {fileID: 561300222}
   inTutorial: 0
   state: {fileID: 57679237}
+  disableTutorial: 1
 --- !u!4 &1926042622
 Transform:
   m_ObjectHideFlags: 0
@@ -11629,6 +11648,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PauseMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 5079372167190494619, guid: 24b5975b218386240a0c8dfccd581091,
+        type: 3}
+      propertyPath: state
+      value: 
+      objectReference: {fileID: 57679237}
     - target: {fileID: 5079372167190494620, guid: 24b5975b218386240a0c8dfccd581091,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11682,6 +11706,11 @@ PrefabInstance:
     - target: {fileID: 5079372167190494620, guid: 24b5975b218386240a0c8dfccd581091,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5079372167431450252, guid: 24b5975b218386240a0c8dfccd581091,
+        type: 3}
+      propertyPath: m_UiScaleMode
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

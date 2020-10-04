@@ -19,6 +19,9 @@ public class GameState : MonoBehaviour
     FamilyBehaviour family;
 
     [SerializeField]
+    Ghost ghost;
+
+    [SerializeField]
     Text generationsCounted;
 
     [SerializeField]
@@ -43,11 +46,16 @@ public class GameState : MonoBehaviour
     public void Play()
     {
         Paused = false;
+        family.ResumeWandering();
+        ghost.ResumeAnimation();
     }
 
     public void Pause()
     {
+
         Paused = true;
+        family.PauseWandering();
+        ghost.PauseAnimation();
     }
 
     public void NextLevel()
