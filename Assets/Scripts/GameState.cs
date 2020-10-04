@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameState : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class GameState : MonoBehaviour
     [SerializeField]
     FamilyBehaviour family;
 
+    [SerializeField]
+    Text generationsCounted;
 
     float timerMaxSeconds;
     float generationsScared;
@@ -27,6 +30,11 @@ public class GameState : MonoBehaviour
         timerMaxSeconds = config.TimerStartSeconds;
         generationsScared = 0;
         fear.SubscribeToFearAtMax(NextLevel);
+    }
+
+    private void UpdateUI()
+    {
+        generationsCounted.text = "Generations Haunted: " + generationsScared.ToString();
     }
 
     public void Play()
@@ -55,6 +63,7 @@ public class GameState : MonoBehaviour
         timer.RestartTimer();
         fear.IncreaseFearChallenge(config.FearMeterMaxIncrease, config.FearDecreaseIncrement);
         generationsScared++;
+        UpdateUI();
         family.RunAway();
         Pause();
 

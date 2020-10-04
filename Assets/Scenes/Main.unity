@@ -365,6 +365,11 @@ PrefabInstance:
       propertyPath: family
       value: 
       objectReference: {fileID: 1187887929}
+    - target: {fileID: 4055522125807125295, guid: 8a8df8b4f38394404818b14d0cf2cf83,
+        type: 3}
+      propertyPath: generationsCounted
+      value: 
+      objectReference: {fileID: 103491056}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a8df8b4f38394404818b14d0cf2cf83, type: 3}
 --- !u!114 &57679236 stripped
@@ -470,6 +475,84 @@ PrefabInstance:
       objectReference: {fileID: 838221935}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd42441d1c7394b00aa61fa72ef2ccb7, type: 3}
+--- !u!1 &103491054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 103491055}
+  - component: {fileID: 103491057}
+  - component: {fileID: 103491056}
+  m_Layer: 5
+  m_Name: Generations Haunted
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &103491055
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103491054}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 809669578}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -142, y: -59}
+  m_SizeDelta: {x: 250, y: 45}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &103491056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103491054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 20
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 5
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Generations Haunted:'
+--- !u!222 &103491057
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103491054}
+  m_CullTransparentMesh: 0
 --- !u!1 &162125836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1789,7 +1872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 858.13257, y: -32.041748}
+  scrollPos: {x: 849.9692, y: 67.95816}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -1801,9 +1884,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 561300260}
-  selectedCommands:
-  - {fileID: 561300237}
+  - {fileID: 561300221}
+  selectedCommands: []
   variables:
   - {fileID: 561300215}
   - {fileID: 561300230}
@@ -7338,6 +7420,7 @@ RectTransform:
   m_Children:
   - {fileID: 7592980334404608417}
   - {fileID: 1022570767}
+  - {fileID: 103491055}
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
