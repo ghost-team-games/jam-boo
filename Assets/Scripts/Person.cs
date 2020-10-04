@@ -32,7 +32,6 @@ public class Person : MonoBehaviour
 
     public void Wander()
     {
-
         WalkTo(navigation.GetWanderDestination());
     }
 
