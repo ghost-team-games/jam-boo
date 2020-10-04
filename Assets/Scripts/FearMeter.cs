@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fungus;
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -14,9 +15,12 @@ public class FearMeter : MonoBehaviour
     Image fearMeterFill;
 
     Action onFearAtMax;
-    float maxFear;
+    int maxFear;
     float fearDecreaseRate;
     float fear;
+    int temp;
+
+    public int fearIncreaseRate;
 
     public void SubscribeToFearAtMax(Action handler)
     {
@@ -35,8 +39,11 @@ public class FearMeter : MonoBehaviour
 
     public void IncreaseFearChallenge(float maxFearIncrease, float fearDecreaseIncrement)
     {
-        maxFear += maxFearIncrease;
+        maxFear += state.generationsScared/4;
         fearDecreaseRate += fearDecreaseIncrement;
+
+        Debug.Log("max fear: " + maxFear);
+        Debug.Log("fear decrease rate: " + fearDecreaseRate);
     }
 
     private void UpdateFear(float? amount = null)
