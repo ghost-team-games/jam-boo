@@ -48,7 +48,7 @@ public class InteractableObject : MonoBehaviour
             {
                 if (animator)
                 {
-                    animator.SetBool("Haunt", true);
+                    animator.SetTrigger("haunt");
                     StartCoroutine(AnimationDelay(animationLength));
                 }
                 else
@@ -88,7 +88,6 @@ public class InteractableObject : MonoBehaviour
     private IEnumerator AnimationDelay(float animationLength)
     {
         yield return new WaitForSeconds(animationLength);
-        animator.SetBool("Haunt", false);
         StartCoroutine(CoolDownTimer(cooldownTimer));
     }
 
