@@ -13,6 +13,9 @@ public class InteractableObject : MonoBehaviour
     [SerializeField]
     Tutorial tutorial;
 
+    [SerializeField]
+    GameObject[] hideOnHaunt;
+
     public float cooldownTimer;
     public float animationLength;
     public float customFearAmount = 0;
@@ -46,10 +49,9 @@ public class InteractableObject : MonoBehaviour
         {
             if (cooldown == false)
             {
-                if (animator)
+                if(animator)
                 {
-                    animator.SetTrigger("haunt");
-                    StartCoroutine(AnimationDelay(animationLength));
+                    HauntAnimation();
                 }
                 else
                 {
@@ -65,6 +67,16 @@ public class InteractableObject : MonoBehaviour
                     fear.IncreaseFear();
                 }
             }
+        }
+    }
+
+    void HauntAnimation()
+    {
+        animator.SetTrigger("haunt");
+        StartCoroutine(AnimationDelay(animationLength));
+        foreach(GameObject hide in hideOnHaunt)
+        {
+            hide.SetActive(false);
         }
     }
 
@@ -88,6 +100,10 @@ public class InteractableObject : MonoBehaviour
     private IEnumerator AnimationDelay(float animationLength)
     {
         yield return new WaitForSeconds(animationLength);
+        foreach(GameObject show in hideOnHaunt)
+        {
+            show.SetActive(true);
+        }
         StartCoroutine(CoolDownTimer(cooldownTimer));
     }
 
