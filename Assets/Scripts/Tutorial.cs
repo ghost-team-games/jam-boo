@@ -48,5 +48,6 @@ public class Tutorial : MonoBehaviour
     public void EndTutorial()
     {
         state.Play();
+        inTutorial = false;
     }
 }
