@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 64781fd90a5854b429c35205d16ed1a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3732889120693313282
+    second: flower-burning_200x200_0
+  - first:
+      213: -5029737907202881374
+    second: flower-burning_200x200_1
+  - first:
+      213: -8227417507036201614
+    second: flower-burning_200x200_2
+  - first:
+      213: 8868146810400969229
+    second: flower-burning_200x200_3
+  - first:
+      213: -2652703554053035500
+    second: flower-burning_200x200_4
+  - first:
+      213: 6651570101577419294
+    second: flower-burning_200x200_5
+  - first:
+      213: 654610153595520203
+    second: flower-burning_200x200_6
+  - first:
+      213: -3623283291292053198
+    second: flower-burning_200x200_7
+  - first:
+      213: 2089875005547860804
+    second: flower-burning_200x200_8
+  - first:
+      213: 6437527384023104138
+    second: flower-burning_200x200_9
+  - first:
+      213: 1567519647731609740
+    second: flower-burning_200x200_10
+  - first:
+      213: -5113332785352911420
+    second: flower-burning_200x200_11
+  - first:
+      213: 4902052896712150440
+    second: flower-burning_200x200_12
+  - first:
+      213: -6168867619463528671
+    second: flower-burning_200x200_13
+  - first:
+      213: -2472183889277527742
+    second: flower-burning_200x200_14
+  - first:
+      213: 1595374733780199950
+    second: flower-burning_200x200_15
+  - first:
+      213: -1355852210096461844
+    second: flower-burning_200x200_16
+  - first:
+      213: -142925473412291355
+    second: flower-burning_200x200_17
+  - first:
+      213: -5126759637214037691
+    second: flower-burning_200x200_18
+  - first:
+      213: -9157340326893165370
+    second: flower-burning_200x200_19
+  - first:
+      213: -504472859098966156
+    second: flower-burning_200x200_20
+  - first:
+      213: 84313793166018486
+    second: flower-burning_200x200_21
+  - first:
+      213: 6071080476397399440
+    second: flower-burning_200x200_22
+  - first:
+      213: -7467595950616277167
+    second: flower-burning_200x200_23
+  - first:
+      213: -4043655136465331386
+    second: flower-burning_200x200_24
+  - first:
+      213: 6282515363332189791
+    second: flower-burning_200x200_25
+  - first:
+      213: -714664916839822792
+    second: flower-burning_200x200_26
+  - first:
+      213: 1976703753837059146
+    second: flower-burning_200x200_27
+  - first:
+      213: 7290754182155191557
+    second: flower-burning_200x200_28
+  - first:
+      213: 2940447300011679333
+    second: flower-burning_200x200_29
+  - first:
+      213: 6241321045925716105
+    second: flower-burning_200x200_30
+  - first:
+      213: 203151103025273021
+    second: flower-burning_200x200_31
+  - first:
+      213: -395556881952116624
+    second: flower-burning_200x200_32
+  - first:
+      213: 1969031426153286772
+    second: flower-burning_200x200_33
+  - first:
+      213: -5232007859609896030
+    second: flower-burning_200x200_34
+  - first:
+      213: -7313630045175488644
+    second: flower-burning_200x200_35
+  - first:
+      213: -6240504970711172436
+    second: flower-burning_200x200_36
+  - first:
+      213: -5951789594820950436
+    second: flower-burning_200x200_37
+  - first:
+      213: -4694600560943098773
+    second: flower-burning_200x200_38
+  - first:
+      213: -6152373617210854728
+    second: flower-burning_200x200_39
+  - first:
+      213: -2010006095005636920
+    second: flower-burning_200x200_40
+  - first:
+      213: -3451379481298723381
+    second: flower-burning_200x200_41
+  - first:
+      213: 2530437439020133109
+    second: flower-burning_200x200_42
+  - first:
+      213: -2190159993395264979
+    second: flower-burning_200x200_43
+  - first:
+      213: 4639739463432978808
+    second: flower-burning_200x200_44
+  - first:
+      213: -2260393832992490255
+    second: flower-burning_200x200_45
+  - first:
+      213: -6696085190892200358
+    second: flower-burning_200x200_46
+  - first:
+      213: -8823428137800983632
+    second: flower-burning_200x200_47
+  - first:
+      213: -408566329126514539
+    second: flower-burning_200x200_48
+  - first:
+      213: 1353381051429252748
+    second: flower-burning_200x200_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flower-burning_200x200_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f58d8a0e2edc330800000000000000
+      internalID: 3732889120693313282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80bd7a508c23ab0800000000000000
+      internalID: -5029737907202881374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df64a3e5752dd80800000000000000
+      internalID: -8227417507036201614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0296f1e98cf11b70800000000000000
+      internalID: 8868146810400969229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa0461c24bf2bd0800000000000000
+      internalID: -2652703554053035500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a812f04cf1f4c50800000000000000
+      internalID: 6651570101577419294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cc676774a51900800000000000000
+      internalID: 654610153595520203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231dde52b0387bdc0800000000000000
+      internalID: -3623283291292053198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d5a2be3ab00d10800000000000000
+      internalID: 2089875005547860804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 824
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afb8c5c01b65950800000000000000
+      internalID: 6437527384023104138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80fc7580d2f0c510800000000000000
+      internalID: 1567519647731609740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55eae5ceac909b0800000000000000
+      internalID: -5113332785352911420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc3ba2327970440800000000000000
+      internalID: 4902052896712150440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f777b8597c36aa0800000000000000
+      internalID: -6168867619463528671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2495b24d9d901bdd0800000000000000
+      internalID: -2472183889277527742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2a922ed8e32610800000000000000
+      internalID: 1595374733780199950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a549399b0f2de0800000000000000
+      internalID: -1355852210096461844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e7e70a0a340ef0800000000000000
+      internalID: -142925473412291355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fb0fc5471ad8b0800000000000000
+      internalID: -5126759637214037691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 624
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46c288d779ae080800000000000000
+      internalID: -9157340326893165370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47794928b90cff8f0800000000000000
+      internalID: -504472859098966156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7835bb2fa8b2100800000000000000
+      internalID: 84313793166018486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de97ef68fc04450800000000000000
+      internalID: 6071080476397399440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f0f554c05cd5890800000000000000
+      internalID: -7467595950616277167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdcccd31d02e7c0800000000000000
+      internalID: -4043655136465331386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e695fcf6aff2750800000000000000
+      internalID: 6282515363332189791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a045a6b000516f0800000000000000
+      internalID: -714664916839822792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_27
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c93a15799ae6b10800000000000000
+      internalID: 1976703753837059146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505cd04fc46fd2560800000000000000
+      internalID: 7290754182155191557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 424
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed3fd7d319ec820800000000000000
+      internalID: 2940447300011679333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980629f5c60ad9650800000000000000
+      internalID: 6241321045925716105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8dc831adcb1d200800000000000000
+      internalID: 203151103025273021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07078c29c13b28af0800000000000000
+      internalID: -395556881952116624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c827356a7635b10800000000000000
+      internalID: 1969031426153286772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab76e1729c2467b0800000000000000
+      internalID: -5232007859609896030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd0b22934c08a90800000000000000
+      internalID: -7313630045175488644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa73b1fac54569a0800000000000000
+      internalID: -6240504970711172436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c4deb5eef66da0800000000000000
+      internalID: -5951789594820950436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6413a2b9ad69deb0800000000000000
+      internalID: -4694600560943098773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 224
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b279a4bac06e9aa0800000000000000
+      internalID: -6152373617210854728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a1d62b160b14e0800000000000000
+      internalID: -2010006095005636920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1e10e5ac3a10d0800000000000000
+      internalID: -3451379481298723381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fae427a17bed1320800000000000000
+      internalID: 2530437439020133109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224768071dfa91e0800000000000000
+      internalID: -2190159993395264979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871c848a57aa36040800000000000000
+      internalID: 4639739463432978808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbff3f8c771a0e0800000000000000
+      internalID: -2260393832992490255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edd1b0ff9b213a0800000000000000
+      internalID: -6696085190892200358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9f217bd2ec8580800000000000000
+      internalID: -8823428137800983632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_48
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909a3d961b745af0800000000000000
+      internalID: -408566329126514539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower-burning_200x200_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 24
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e6f2055ec28c210800000000000000
+      internalID: 1353381051429252748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
