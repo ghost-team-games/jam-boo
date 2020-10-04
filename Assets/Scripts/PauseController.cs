@@ -26,8 +26,7 @@ public class PauseController : MonoBehaviour
 
     public void DisablePause()
     {
-        state.Play();
-        pauseMenu.SetActive(false);
+        StartCoroutine(PauseBuffer());
     }
 
     public void LoadPause()
@@ -42,9 +41,10 @@ public class PauseController : MonoBehaviour
         pauseMenu.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
+    private IEnumerator PauseBuffer()
     {
-        
+        yield return new WaitForSeconds(0.25f);
+        state.Play();
+        pauseMenu.SetActive(false);
     }
 }

@@ -7,6 +7,12 @@ public class InteractableObject : MonoBehaviour
     [SerializeField]
     FearMeter fear;
 
+    [SerializeField]
+    GameState state;
+
+    [SerializeField]
+    Tutorial tutorial;
+
     public float cooldownTimer;
     public float animationLength;
     public float customFearAmount = 0;
@@ -35,25 +41,29 @@ public class InteractableObject : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (cooldown == false)
+        
+        if (!state.Paused || tutorial.inTutorial)
         {
-            if(animator)
+            if (cooldown == false)
             {
-                animator.SetBool("Haunt", true);
-                StartCoroutine(AnimationDelay(animationLength));
-            }
-            else
-            {
-                StartCoroutine(CoolDownTimer(cooldownTimer));
-            }
-            cooldown = true;
-            if (customFearAmount > 0)
-            {
-                fear.IncreaseFearByAmount(customFearAmount);
-            }
-            else
-            {
-                fear.IncreaseFear();
+                if (animator)
+                {
+                    animator.SetBool("Haunt", true);
+                    StartCoroutine(AnimationDelay(animationLength));
+                }
+                else
+                {
+                    StartCoroutine(CoolDownTimer(cooldownTimer));
+                }
+                cooldown = true;
+                if (customFearAmount > 0)
+                {
+                    fear.IncreaseFearByAmount(customFearAmount);
+                }
+                else
+                {
+                    fear.IncreaseFear();
+                }
             }
         }
     }
