@@ -1316,6 +1316,12 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5256955635865773201, guid: fd42441d1c7394b00aa61fa72ef2ccb7,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6809391319238058470, guid: d1a184b153bf540808a7888943b60fb7,
+        type: 3}
     - target: {fileID: 5256955635865773212, guid: fd42441d1c7394b00aa61fa72ef2ccb7,
         type: 3}
       propertyPath: m_Name
@@ -1326,6 +1332,11 @@ PrefabInstance:
       propertyPath: navigation
       value: 
       objectReference: {fileID: 838221935}
+    - target: {fileID: 5256955635865773215, guid: fd42441d1c7394b00aa61fa72ef2ccb7,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 46c5c7a341cc64fd0ba46af3bf0e5a7b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd42441d1c7394b00aa61fa72ef2ccb7, type: 3}
 --- !u!4 &843944735 stripped
