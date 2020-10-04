@@ -677,9 +677,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fear: {fileID: 952296565}
-  cooldownTimer: 5
+  cooldownTimer: 2
   animationLength: 1
-  customFearAmount: 0
+  customFearAmount: 3
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &162125841
@@ -1004,9 +1004,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fear: {fileID: 952296565}
-  cooldownTimer: 5
+  cooldownTimer: 3
   animationLength: 1
-  customFearAmount: 0
+  customFearAmount: 3
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &346101770
@@ -7913,9 +7913,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fear: {fileID: 952296565}
-  cooldownTimer: 10
+  cooldownTimer: 7
   animationLength: 2
-  customFearAmount: 0
+  customFearAmount: 8
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &1087208642
@@ -9556,9 +9556,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fear: {fileID: 952296565}
-  cooldownTimer: 7
+  cooldownTimer: 5
   animationLength: 3
-  customFearAmount: 0
+  customFearAmount: 5
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &2108471142
