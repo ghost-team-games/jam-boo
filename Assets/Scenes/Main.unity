@@ -219,6 +219,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -1195,6 +1196,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -7961,6 +7963,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -8287,6 +8290,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -8591,6 +8595,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -8991,8 +8996,10 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt:
+  - {fileID: 1491477005}
   cooldownTimer: 0
-  animationLength: 0
+  animationLength: 3.7
   customFearAmount: 0
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
@@ -11060,6 +11067,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -11336,6 +11344,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -11603,6 +11612,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -12074,6 +12084,7 @@ MonoBehaviour:
   fear: {fileID: 952296565}
   state: {fileID: 57679237}
   tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
