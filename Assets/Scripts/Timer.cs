@@ -35,8 +35,7 @@ public class Timer : MonoBehaviour
 
     private void Awake()
     {
-        // offset by one second, otherwise, starting time never appears:
-        maxTime = config.TimerStartSeconds + 1;
+        maxTime = config.TimerStartSeconds;
         RestartTimer();
         UpdateUI();
         onTimerEnd = () => { };
