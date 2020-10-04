@@ -22,7 +22,7 @@ public class GameState : MonoBehaviour
     Text generationsCounted;
 
     float timerMaxSeconds;
-    float generationsScared;
+    public int generationsScared;
 
     private void Awake()
     {

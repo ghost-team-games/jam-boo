@@ -31,6 +31,11 @@ public class MenuController : MonoBehaviour
         StartCoroutine(FadeOut(sceneNumber));
     }
 
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
     private IEnumerator FadeOut(int sceneNumber)
     {
         animator.SetBool("Fade", true);

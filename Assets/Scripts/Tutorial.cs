@@ -21,6 +21,7 @@ public class Tutorial : MonoBehaviour
         //if(firstRun == 0)
         //{
         //    PlayerPrefs.SetInt("firstRun", 1);
+        //    PlayerPrefs.SetInt("HighScore", 0);
         //    //run tutorial
         //    RunTutorial();
         //}
