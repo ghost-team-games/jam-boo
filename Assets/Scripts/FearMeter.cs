@@ -41,9 +41,6 @@ public class FearMeter : MonoBehaviour
     {
         maxFear += state.generationsScared/4;
         fearDecreaseRate += fearDecreaseIncrement;
-
-        Debug.Log("max fear: " + maxFear);
-        Debug.Log("fear decrease rate: " + fearDecreaseRate);
     }
 
     private void UpdateFear(float? amount = null)

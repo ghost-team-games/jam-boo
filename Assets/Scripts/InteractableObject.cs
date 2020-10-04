@@ -36,7 +36,6 @@ public class InteractableObject : MonoBehaviour
     {
         // default to animator on the object
         animator = animatorOverride == null ? GetComponent<Animator>() : animatorOverride;
-        Debug.Log("obj: " + this + ", anim: " + animator);
         cooldown = false;
         rend = GetComponent<Renderer>();
         baseMaterial = GetComponent<Renderer>().material;

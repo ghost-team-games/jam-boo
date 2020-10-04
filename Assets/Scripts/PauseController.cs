@@ -13,14 +13,12 @@ public class PauseController : MonoBehaviour
 
     public void Resume()
     {
-        //Debug.Log("Resume Hit");
         state.Play();
         DisablePause();
     }
 
     public void QuitGame()
     {
-        //Debug.Log("Quit Hit");
         Application.Quit();
     }
 
