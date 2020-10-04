@@ -16,6 +16,10 @@ public class InteractableObject : MonoBehaviour
     [SerializeField]
     GameObject[] hideOnHaunt;
 
+    [Tooltip("To use an animator on a different object for haunting animation")]
+    [SerializeField]
+    Animator animatorOverride;
+
     public float cooldownTimer;
     public float animationLength;
     public float customFearAmount = 0;
@@ -30,7 +34,8 @@ public class InteractableObject : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
+        // default to animator on the object
+        animator = animatorOverride ?? GetComponent<Animator>();
         cooldown = false;
         rend = GetComponent<Renderer>();
         baseMaterial = GetComponent<Renderer>().material;
