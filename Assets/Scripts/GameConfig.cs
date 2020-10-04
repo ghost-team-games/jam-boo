@@ -6,6 +6,7 @@ public class GameConfig : MonoBehaviour
     public float TimerStartSeconds = 120f;
     public float TimerMinSeconds = 30;
     public float TimerDecrease = 5;
+    public float DelayBetweenLevels = 3f;
 
     [Header("Fear Meter")]
     public float FearDecreaseRate = 0.005f;

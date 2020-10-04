@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class GameState : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class GameState : MonoBehaviour
 
     [SerializeField]
     GameConfig config;
+
+    [SerializeField]
+    FamilyBehaviour family;
 
     float timerMaxSeconds;
     float generationsScared;
@@ -37,7 +41,12 @@ public class GameState : MonoBehaviour
 
     public void NextLevel()
     {
-        if(timerMaxSeconds > config.TimerMinSeconds)
+        StartCoroutine(TransitionToNextLevel());
+    }
+
+    IEnumerator TransitionToNextLevel()
+    {
+        if (timerMaxSeconds > config.TimerMinSeconds)
         {
             timerMaxSeconds -= config.TimerDecrease;
             timer.UpdateMaxTime(timerMaxSeconds);
@@ -45,5 +54,12 @@ public class GameState : MonoBehaviour
         timer.RestartTimer();
         fear.IncreaseFearChallenge(config.FearMeterMaxIncrease, config.FearDecreaseIncrement);
         generationsScared++;
+        family.RunAway();
+        Pause();
+
+        yield return new WaitForSeconds(config.DelayBetweenLevels);
+
+        family.MoveIn();
+        Play();
     }
 }
