@@ -17,6 +17,7 @@ public class GameState : MonoBehaviour
     [SerializeField]
     FamilyBehaviour family;
 
+
     float timerMaxSeconds;
     float generationsScared;
 

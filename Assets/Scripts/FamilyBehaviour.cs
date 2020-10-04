@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class FamilyBehaviour : MonoBehaviour
 {
+    [SerializeField]
+    Tutorial tutorial;
+
     Person[] family;
 
     private void Awake()
@@ -13,7 +16,10 @@ public class FamilyBehaviour : MonoBehaviour
 
     private void Start()
     {
-        MoveIn();
+        if (!tutorial.inTutorial)
+        {
+            MoveIn();
+        }
     }
 
     public void MoveIn()
