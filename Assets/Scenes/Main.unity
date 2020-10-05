@@ -11905,7 +11905,7 @@ MonoBehaviour:
   flowchart: {fileID: 561300222}
   inTutorial: 0
   state: {fileID: 57679237}
-  disableTutorial: 1
+  disableTutorial: 0
 --- !u!4 &1926042622
 Transform:
   m_ObjectHideFlags: 0
