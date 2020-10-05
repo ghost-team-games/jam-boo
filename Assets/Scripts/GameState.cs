@@ -63,6 +63,11 @@ public class GameState : MonoBehaviour
         StartCoroutine(TransitionToNextLevel());
     }
 
+    public void HauntObject(InteractableObject hauntTarget)
+    {
+        ghost.TravelTo(hauntTarget);
+    }
+
     IEnumerator TransitionToNextLevel()
     {
         if (timerMaxSeconds > config.TimerMinSeconds)
@@ -70,16 +75,14 @@ public class GameState : MonoBehaviour
             timerMaxSeconds -= config.TimerDecrease;
             timer.UpdateMaxTime(timerMaxSeconds);
         }
-        timer.RestartTimer();
-        fear.IncreaseFearChallenge(config.FearMeterMaxIncrease, config.FearDecreaseIncrement);
         generationsScared++;
         UpdateUI();
         family.RunAway();
-        Pause();
 
         yield return new WaitForSeconds(config.DelayBetweenLevels);
 
+        fear.IncreaseFearChallenge(config.FearMeterMaxIncrease, config.FearDecreaseIncrement);
+        timer.RestartTimer();
         family.MoveIn();
-        Play();
     }
 }
