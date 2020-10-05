@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class Ghost : MonoBehaviour
 {
-    public float moveSpeed = 1f;
-    public Vector3 hauntOffset = new Vector3(-0.75f, -0.75f);
+    public float moveSpeed = 2f;
+    public Vector3 hauntOffset = new Vector3(-1.5f, -0.75f);
 
     Animator animator;
     IEnumerator moveCoroutine;

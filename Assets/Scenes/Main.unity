@@ -8184,8 +8184,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96972c798a7e54ee0a538cb9ced882f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 1
-  hauntOffset: {x: -0.75, y: -0.75, z: 0}
+  moveSpeed: 2
+  hauntOffset: {x: -1.5, y: -0.75, z: 0}
 --- !u!1 &671229348
 GameObject:
   m_ObjectHideFlags: 0
