@@ -1116,6 +1116,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -1366,6 +1367,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &385692252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 385692254}
+  - component: {fileID: 385692253}
+  m_Layer: 0
+  m_Name: Cursor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &385692253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 385692252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hauntCursor: {fileID: 2800000, guid: da3c70bd186544146ac650ef1ff552cc, type: 3}
+  noHauntCursor: {fileID: 2800000, guid: 6b21618837183e24eb22bca36937a955, type: 3}
+  normalCursor: {fileID: 2800000, guid: 8d335963fb3f55b439b4367ac799052a, type: 3}
+--- !u!4 &385692254
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 385692252}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 312.77863, y: 223.99387, z: -6.96875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &428017937
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,7 +1430,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &428017938
 Transform:
   m_ObjectHideFlags: 0
@@ -1410,10 +1457,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &428017940
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1482,7 +1528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &434203097
 Transform:
   m_ObjectHideFlags: 0
@@ -1509,10 +1555,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &434203099
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8138,6 +8183,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -8469,6 +8515,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 1
   animationLength: 0
   customFearAmount: 0
@@ -8532,7 +8579,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &693370357
 Transform:
   m_ObjectHideFlags: 0
@@ -8559,10 +8606,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &693370359
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8709,7 +8755,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &769418470
 Transform:
   m_ObjectHideFlags: 0
@@ -8736,10 +8782,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &769418472
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8976,6 +9021,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 4.93
   customFearAmount: 0
@@ -9399,6 +9445,7 @@ MonoBehaviour:
   hideOnHaunt:
   - {fileID: 1491477005}
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 3.7
   customFearAmount: 0
@@ -9867,7 +9914,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1169106118
 Transform:
   m_ObjectHideFlags: 0
@@ -9894,10 +9941,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &1169106120
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9966,7 +10012,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1182400351
 Transform:
   m_ObjectHideFlags: 0
@@ -9993,10 +10039,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &1182400353
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10274,7 +10319,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1288873227
 Transform:
   m_ObjectHideFlags: 0
@@ -10301,10 +10346,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &1288873229
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10391,7 +10435,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1320900013
 Transform:
   m_ObjectHideFlags: 0
@@ -10418,10 +10462,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &1320900015
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11295,6 +11338,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 2
   customFearAmount: 0
@@ -12020,6 +12064,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 177699181}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 3.3
   customFearAmount: 0
@@ -12299,6 +12344,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -12362,7 +12408,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1861833953
 Transform:
   m_ObjectHideFlags: 0
@@ -12389,10 +12435,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3169b3384de439f9d1dd45ac594d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hauntIcon: {fileID: 7404812778533095698, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
-  hauntDisabledIcon: {fileID: 9199458852438358414, guid: 2c609e081ed5c4d208c9c2791f1797cd,
-    type: 3}
+  hauntCursor: {fileID: 0}
+  noHauntCursor: {fileID: 0}
+  normalCursor: {fileID: 0}
 --- !u!212 &1861833955
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12668,6 +12713,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
@@ -13139,6 +13185,7 @@ MonoBehaviour:
   tutorial: {fileID: 1926042621}
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
+  icon: {fileID: 0}
   cooldownTimer: 0
   animationLength: 0
   customFearAmount: 0
