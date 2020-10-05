@@ -1730,9 +1730,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 3
+  cooldownTimer: 5
   animationLength: 0.7
-  customFearAmount: 3
+  customFearAmount: 5
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &499093093
@@ -2301,8 +2301,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 2
-  storyText: Haunting items is tiring. Some items require more energy to posses than
-    others. This means you need to wait before haunting that item again.
+  storyText: Haunting items is tiring. Some items require more energy to possess
+    than others. This means you need to wait before haunting that item again.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2330,7 +2330,7 @@ MonoBehaviour:
   itemId: 4
   indentLevel: 2
   storyText: You successfully haunted the chair. Many objects in your house can be
-    possed as well.
+    possessed as well.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2390,7 +2390,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 305.5528
     y: 140.91193
-    width: 82.1311
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2456,7 +2456,7 @@ MonoBehaviour:
   itemId: 1
   indentLevel: 0
   storyText: Unfortunately, you are dead. But, on the bright side, you're now a ghost.
-    Complete with the ability to posses and haunt items.
+    Complete with the ability to possess and haunt items.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2500,7 +2500,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 316.5625
     y: 79
-    width: 60
+    width: 90.655716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2528,7 +2528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 625.3255, y: -123.36841}
+  scrollPos: {x: 622.7216, y: -163.69284}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -2540,9 +2540,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 561300224}
-  selectedCommands:
-  - {fileID: 561300278}
+  - {fileID: 561300270}
+  selectedCommands: []
   variables:
   - {fileID: 561300215}
   - {fileID: 561300230}
@@ -2590,7 +2589,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 322.02396
     y: 444.53772
-    width: 72.95078
+    width: 112.95078
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6062,7 +6061,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 302.09848
     y: 211.25816
-    width: 93.93437
+    width: 133.93437
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6592,7 +6591,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 313.61716
     y: 310.78143
-    width: 93.93437
+    width: 133.93437
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6643,7 +6642,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 77.27342
     y: 320.487
-    width: 67.70488
+    width: 107.70488
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6724,7 +6723,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 321.59503
     y: 536.05133
-    width: 71.639305
+    width: 111.639305
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6924,7 +6923,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 500.61716
     y: 312.78143
-    width: 60
+    width: 95.90161
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9371,7 +9370,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &809669575
 MonoBehaviour:
   m_ObjectHideFlags: 0
