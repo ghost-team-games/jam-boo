@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: 800c6a48072b44c4fb826add2abd59fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9212183092310985856
+    second: TV-animated_300x300_0
+  - first:
+      213: 8014520076515406609
+    second: TV-animated_300x300_1
+  - first:
+      213: -9186963163142553734
+    second: TV-animated_300x300_2
+  - first:
+      213: 7459562070527192261
+    second: TV-animated_300x300_3
+  - first:
+      213: -3276683237891604042
+    second: TV-animated_300x300_4
+  - first:
+      213: -4742919431109317551
+    second: TV-animated_300x300_5
+  - first:
+      213: -3568751108234173744
+    second: TV-animated_300x300_6
+  - first:
+      213: -2677385170677330150
+    second: TV-animated_300x300_7
+  - first:
+      213: -5286435745604172216
+    second: TV-animated_300x300_8
+  - first:
+      213: 5641750188122323994
+    second: TV-animated_300x300_9
+  - first:
+      213: -511785425860372555
+    second: TV-animated_300x300_10
+  - first:
+      213: -1713970397709699226
+    second: TV-animated_300x300_11
+  - first:
+      213: 5844420702473738221
+    second: TV-animated_300x300_12
+  - first:
+      213: 5247470005057650610
+    second: TV-animated_300x300_13
+  - first:
+      213: 7409100323045089189
+    second: TV-animated_300x300_14
+  - first:
+      213: -3593735934655944631
+    second: TV-animated_300x300_15
+  - first:
+      213: -2162075321447497474
+    second: TV-animated_300x300_16
+  - first:
+      213: -74593600506420712
+    second: TV-animated_300x300_17
+  - first:
+      213: -3448874456261362197
+    second: TV-animated_300x300_18
+  - first:
+      213: -5349811243748950255
+    second: TV-animated_300x300_19
+  - first:
+      213: -6598559029321880551
+    second: TV-animated_300x300_20
+  - first:
+      213: -7866304257443789661
+    second: TV-animated_300x300_21
+  - first:
+      213: -4948000810396658896
+    second: TV-animated_300x300_22
+  - first:
+      213: -7470188277378041719
+    second: TV-animated_300x300_23
+  - first:
+      213: 6425155030597722611
+    second: TV-animated_300x300_24
+  - first:
+      213: 4351865428819964087
+    second: TV-animated_300x300_25
+  - first:
+      213: -3883648457837479137
+    second: TV-animated_300x300_26
+  - first:
+      213: 1733339907494251126
+    second: TV-animated_300x300_27
+  - first:
+      213: 1547826016459037987
+    second: TV-animated_300x300_28
+  - first:
+      213: 998650335438684839
+    second: TV-animated_300x300_29
+  - first:
+      213: -6705215688643231550
+    second: TV-animated_300x300_30
+  - first:
+      213: -6289905464480613951
+    second: TV-animated_300x300_31
+  - first:
+      213: -8255434512126976532
+    second: TV-animated_300x300_32
+  - first:
+      213: 8728692572106959904
+    second: TV-animated_300x300_33
+  - first:
+      213: 597140249118698854
+    second: TV-animated_300x300_34
+  - first:
+      213: 5822571277217493837
+    second: TV-animated_300x300_35
+  - first:
+      213: -6057612211847745868
+    second: TV-animated_300x300_36
+  - first:
+      213: 8310291141927600431
+    second: TV-animated_300x300_37
+  - first:
+      213: 2133317829551357659
+    second: TV-animated_300x300_38
+  - first:
+      213: 506386595151599551
+    second: TV-animated_300x300_39
+  - first:
+      213: -505303152358901258
+    second: TV-animated_300x300_40
+  - first:
+      213: -8030332434368424460
+    second: TV-animated_300x300_41
+  - first:
+      213: 6862841057496914
+    second: TV-animated_300x300_42
+  - first:
+      213: 5301833209931826709
+    second: TV-animated_300x300_43
+  - first:
+      213: -2069874394496946000
+    second: TV-animated_300x300_44
+  - first:
+      213: -9054912358523352551
+    second: TV-animated_300x300_45
+  - first:
+      213: 6954487684723553100
+    second: TV-animated_300x300_46
+  - first:
+      213: 4498451605062955052
+    second: TV-animated_300x300_47
+  - first:
+      213: -7985269419575364894
+    second: TV-animated_300x300_48
+  - first:
+      213: 5075879201904221402
+    second: TV-animated_300x300_49
+  - first:
+      213: 5793757055299740151
+    second: TV-animated_300x300_50
+  - first:
+      213: -897932115628427654
+    second: TV-animated_300x300_51
+  - first:
+      213: 4936196064726828467
+    second: TV-animated_300x300_52
+  - first:
+      213: -1145267515273261880
+    second: TV-animated_300x300_53
+  - first:
+      213: -6552661462155010173
+    second: TV-animated_300x300_54
+  - first:
+      213: 631050739242646203
+    second: TV-animated_300x300_55
+  - first:
+      213: -6491797903391500346
+    second: TV-animated_300x300_56
+  - first:
+      213: 581271232895740447
+    second: TV-animated_300x300_57
+  - first:
+      213: 1754979757167525641
+    second: TV-animated_300x300_58
+  - first:
+      213: -5637814235562524961
+    second: TV-animated_300x300_59
+  - first:
+      213: -7715030904765280709
+    second: TV-animated_300x300_60
+  - first:
+      213: -5782778057777160143
+    second: TV-animated_300x300_61
+  - first:
+      213: -6709694180871740786
+    second: TV-animated_300x300_62
+  - first:
+      213: 4489723981546168938
+    second: TV-animated_300x300_63
+  - first:
+      213: -4656815054996127955
+    second: TV-animated_300x300_64
+  - first:
+      213: 981785072752531956
+    second: TV-animated_300x300_65
+  - first:
+      213: -2863420215004292050
+    second: TV-animated_300x300_66
+  - first:
+      213: 5494568776579888980
+    second: TV-animated_300x300_67
+  - first:
+      213: -8254161810901224390
+    second: TV-animated_300x300_68
+  - first:
+      213: -820523213224600282
+    second: TV-animated_300x300_69
+  - first:
+      213: 2451746480455670049
+    second: TV-animated_300x300_70
+  - first:
+      213: 8838029227777564827
+    second: TV-animated_300x300_71
+  - first:
+      213: -5845146546804191432
+    second: TV-animated_300x300_72
+  - first:
+      213: -3956797545683495324
+    second: TV-animated_300x300_73
+  - first:
+      213: -5124241789946967349
+    second: TV-animated_300x300_74
+  - first:
+      213: 8194353080112528204
+    second: TV-animated_300x300_75
+  - first:
+      213: 2192614585632788286
+    second: TV-animated_300x300_76
+  - first:
+      213: -5813469228942330357
+    second: TV-animated_300x300_77
+  - first:
+      213: -6540048627677919942
+    second: TV-animated_300x300_78
+  - first:
+      213: -346449289022637480
+    second: TV-animated_300x300_79
+  - first:
+      213: -8839013642146314624
+    second: TV-animated_300x300_80
+  - first:
+      213: 3488642652298050308
+    second: TV-animated_300x300_81
+  - first:
+      213: 5598180495394288534
+    second: TV-animated_300x300_82
+  - first:
+      213: -8345981637889694078
+    second: TV-animated_300x300_83
+  - first:
+      213: 6112479286820914114
+    second: TV-animated_300x300_84
+  - first:
+      213: 2850875401962249207
+    second: TV-animated_300x300_85
+  - first:
+      213: -2624184475887511367
+    second: TV-animated_300x300_86
+  - first:
+      213: 4549717751387131704
+    second: TV-animated_300x300_87
+  - first:
+      213: -79383342036399669
+    second: TV-animated_300x300_88
+  - first:
+      213: -5843988897302012792
+    second: TV-animated_300x300_89
+  - first:
+      213: 4768664823092066007
+    second: TV-animated_300x300_90
+  - first:
+      213: 2841697004605228654
+    second: TV-animated_300x300_91
+  - first:
+      213: -68165046208859807
+    second: TV-animated_300x300_92
+  - first:
+      213: 7434387310449289870
+    second: TV-animated_300x300_93
+  - first:
+      213: -7789031833627953839
+    second: TV-animated_300x300_94
+  - first:
+      213: 6091504922137576316
+    second: TV-animated_300x300_95
+  - first:
+      213: -8451444922896456251
+    second: TV-animated_300x300_96
+  - first:
+      213: 3784081059198866171
+    second: TV-animated_300x300_97
+  - first:
+      213: -7709078484336749281
+    second: TV-animated_300x300_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TV-animated_300x300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b1f82940c72080800000000000000
+      internalID: -9212183092310985856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ffedfb8b493f60800000000000000
+      internalID: 8014520076515406609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff9408da9518080800000000000000
+      internalID: -9186963163142553734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc20c14e20b58760800000000000000
+      internalID: 7459562070527192261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18efba4f1e682d0800000000000000
+      internalID: -3276683237891604042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6e6e08e3cd2eb0800000000000000
+      internalID: -4742919431109317551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2abed66cf397ec0800000000000000
+      internalID: -3568751108234173744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f01e66f5408dad0800000000000000
+      internalID: -2677385170677330150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8460657b2bec2a6b0800000000000000
+      internalID: -5286435745604172216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3682a7e58b4e40800000000000000
+      internalID: 5641750188122323994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7de52edd5c5e8f0800000000000000
+      internalID: -511785425860372555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6677af81101c638e0800000000000000
+      internalID: -1713970397709699226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3796
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d2e0f9ad8b1150800000000000000
+      internalID: 5844420702473738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7af4da22c2d840800000000000000
+      internalID: 5247470005057650610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af955c1d7962d660800000000000000
+      internalID: 7409100323045089189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948a646353c702ec0800000000000000
+      internalID: -3593735934655944631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0cb7743f3cef1e0800000000000000
+      internalID: -2162075321447497474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122c4bf38df6fef0800000000000000
+      internalID: -74593600506420712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed7f9774f22320d0800000000000000
+      internalID: -3448874456261362197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff3f0b407a1c5b0800000000000000
+      internalID: -5349811243748950255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca2d306853d64a0800000000000000
+      internalID: -6598559029321880551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48bef84f545d290800000000000000
+      internalID: -7866304257443789661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03356f38a7b255bb0800000000000000
+      internalID: -4948000810396658896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883899275f845890800000000000000
+      internalID: -7470188277378041719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16799557cba2950800000000000000
+      internalID: 6425155030597722611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3496
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fd13ec8ee46c30800000000000000
+      internalID: 4351865428819964087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b7a16dd428a1ac0800000000000000
+      internalID: -3883648457837479137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0435567f0e0810800000000000000
+      internalID: 1733339907494251126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d162daf8bfa7510800000000000000
+      internalID: 1547826016459037987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c5a2603bebdd00800000000000000
+      internalID: 998650335438684839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c04b006bd942f2a0800000000000000
+      internalID: -6705215688643231550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c938de2e44c5b8a0800000000000000
+      internalID: -6289905464480613951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddb26ec0ece6d80800000000000000
+      internalID: -8255434512126976532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca602d5ab822970800000000000000
+      internalID: 8728692572106959904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66deecd84e7794800800000000000000
+      internalID: 597140249118698854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f0f13abdedc050800000000000000
+      internalID: 5822571277217493837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be2fb5b9c90feba0800000000000000
+      internalID: -6057612211847745868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218ba683c5145370800000000000000
+      internalID: 8310291141927600431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3196
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7a6f53411b9d10800000000000000
+      internalID: 2133317829551357659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7d703eceb070700800000000000000
+      internalID: 506386595151599551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f933cbc57dccf8f0800000000000000
+      internalID: -505303152358901258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f51c2d82378e8090800000000000000
+      internalID: -8030332434368424460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc163b7b1681000800000000000000
+      internalID: 6862841057496914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160b50d635e39940800000000000000
+      internalID: 5301833209931826709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0355274345643e0800000000000000
+      internalID: -2069874394496946000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91acbe55f2d765280800000000000000
+      internalID: -9054912358523352551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b6cae3bd438060800000000000000
+      internalID: 6954487684723553100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203017a6e5bd6e30800000000000000
+      internalID: 4498451605062955052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2bb6a45cf9e2190800000000000000
+      internalID: -7985269419575364894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5b40bd35217640800000000000000
+      internalID: 5075879201904221402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ed0c585f876050800000000000000
+      internalID: 5793757055299740151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2896
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767d8f8f77e983f0800000000000000
+      internalID: -897932115628427654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b549b3fa24e08440800000000000000
+      internalID: 4936196064726828467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc75343413b10f0800000000000000
+      internalID: -1145267515273261880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdbde1e154015a0800000000000000
+      internalID: -6552661462155010173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3ecbcd41f1c800800000000000000
+      internalID: 631050739242646203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c759bea33088e5a0800000000000000
+      internalID: -6491797903391500346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a67ea4b17111800800000000000000
+      internalID: 581271232895740447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb8f57ac0fa5810800000000000000
+      internalID: 1754979757167525641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb7abb2d572c1b0800000000000000
+      internalID: -5637814235562524961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_60
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0e42a444bee490800000000000000
+      internalID: -7715030904765280709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_61
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e443bef17fbfa0800000000000000
+      internalID: -5782778057777160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8262a521b062e2a0800000000000000
+      internalID: -6709694180871740786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_63
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ac937c24be4e30800000000000000
+      internalID: 4489723981546168938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_64
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb34e516baf5fb0800000000000000
+      internalID: -4656815054996127955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9123b625000ad00800000000000000
+      internalID: 981785072752531956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1ff94c761348d0800000000000000
+      internalID: -2863420215004292050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573ff9d031a04c40800000000000000
+      internalID: 5494568776579888980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3433aeb093537d80800000000000000
+      internalID: -8254161810901224390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d19c12c7aec94f0800000000000000
+      internalID: -820523213224600282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129dfde1f6a560220800000000000000
+      internalID: 2451746480455670049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a33cb1ccf6aa70800000000000000
+      internalID: 8838029227777564827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_72
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f82a14f2ed1eea0800000000000000
+      internalID: -5845146546804191432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_73
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d561a891a619c0800000000000000
+      internalID: -3956797545683495324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_74
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacffecd3903e8b0800000000000000
+      internalID: -5124241789946967349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_75
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3c38f5b038b170800000000000000
+      internalID: 8194353080112528204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_76
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8bf1495bbd6e10800000000000000
+      internalID: 2192614585632788286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_77
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2296
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067a309988625fa0800000000000000
+      internalID: -5813469228942330357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350a7d7c641d35a0800000000000000
+      internalID: -6540048627677919942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7e1b053a213bf0800000000000000
+      internalID: -346449289022637480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_80
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086890f6ce3855580800000000000000
+      internalID: -8839013642146314624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_81
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b708632062a6030800000000000000
+      internalID: 3488642652298050308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933f78008bb0bd40800000000000000
+      internalID: 5598180495394288534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e6a35bed1d2c80800000000000000
+      internalID: -8345981637889694078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_84
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c4eba683e3d450800000000000000
+      internalID: 6112479286820914114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_85
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbdbd0d218509720800000000000000
+      internalID: 2850875401962249207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_86
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b851a96f16059bd0800000000000000
+      internalID: -2624184475887511367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_87
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f08bf7038d32f30800000000000000
+      internalID: 4549717751387131704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_88
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc946d06549f5eef0800000000000000
+      internalID: -79383342036399669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_89
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9cf88f0bf5eea0800000000000000
+      internalID: -5843988897302012792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_90
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1996
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6bd412463bd2240800000000000000
+      internalID: 4768664823092066007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6649c6ae5cbf6720800000000000000
+      internalID: 2841697004605228654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617f9a6044dd0ff0800000000000000
+      internalID: -68165046208859807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_93
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a600aaedf3c2760800000000000000
+      internalID: 7434387310449289870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155756cb0dcc7e390800000000000000
+      internalID: -7789031833627953839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73cd87d37f598450800000000000000
+      internalID: 6091504922137576316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_96
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56afbce9f66ba80800000000000000
+      internalID: -8451444922896456251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_97
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf215d6aca1c38430800000000000000
+      internalID: 3784081059198866171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV-animated_300x300_98
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1696
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15508386f9d30590800000000000000
+      internalID: -7709078484336749281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

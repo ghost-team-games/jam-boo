@@ -7934,7 +7934,7 @@ MonoBehaviour:
   indentLevel: 1
 --- !u!114 &561300278
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7961,7 +7961,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &561300279
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7989,7 +7989,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &561300280
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8017,7 +8017,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &561300281
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8044,7 +8044,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &561300282
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -12398,7 +12398,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: e302d86ae792642d98bf290396a01687, type: 3}
+  m_Sprite: {fileID: -9212183092310985856, guid: 800c6a48072b44c4fb826add2abd59fc,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12418,7 +12419,7 @@ Transform:
   m_GameObject: {fileID: 1854669438}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.933, y: 0.227, z: 0}
-  m_LocalScale: {x: 0.5156839, y: 0.5156839, z: 0.5156839}
+  m_LocalScale: {x: 0.6771202, y: 0.6771202, z: 0.6771202}
   m_Children:
   - {fileID: 1182400351}
   m_Father: {fileID: 1979295271}
@@ -12464,7 +12465,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.66, y: 3.72}
+    oldSize: {x: 3, y: 3}
     newSize: {x: 2.66, y: 3.72}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
