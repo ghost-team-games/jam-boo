@@ -1767,6 +1767,11 @@ GameObject:
   - component: {fileID: 561300277}
   - component: {fileID: 561300276}
   - component: {fileID: 561300275}
+  - component: {fileID: 561300282}
+  - component: {fileID: 561300281}
+  - component: {fileID: 561300280}
+  - component: {fileID: 561300279}
+  - component: {fileID: 561300278}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2197,7 +2202,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 2
-  storyText: Something about fear meter
+  storyText: You'll notice in the top left a fear meter. This shows how scared the
+    family is.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2224,7 +2230,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 2
-  storyText: Something about cooldown time
+  storyText: Haunting items is tiring. Some items require more energy to posses than
+    others. This means you need to wait before haunting that item again.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2251,7 +2258,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 2
-  storyText: You successfully haunted the chair.
+  storyText: You successfully haunted the chair. Many objects in your house can be
+    possed as well.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2311,7 +2319,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 305.5528
     y: 140.91193
-    width: 126.56246
+    width: 82.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2326,6 +2334,8 @@ MonoBehaviour:
   - {fileID: 561300266}
   - {fileID: 561300214}
   - {fileID: 561300212}
+  - {fileID: 561300280}
+  - {fileID: 561300279}
   - {fileID: 561300213}
   - {fileID: 561300277}
   - {fileID: 561300276}
@@ -2347,7 +2357,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: Try clicking on the chair
+  storyText: How do you scare them you ask? Try clicking on the chair.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2374,7 +2384,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: Some sort of intro text...blah blah haunt the house
+  storyText: Unfortunately, you are dead. But, on the bright side, you're now a ghost.
+    Complete with the ability to posses and haunt items.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -2416,9 +2427,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 315
+    x: 316.5625
     y: 79
-    width: 92.96873
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2428,6 +2439,8 @@ MonoBehaviour:
   eventHandler: {fileID: 561300220}
   commandList:
   - {fileID: 561300219}
+  - {fileID: 561300282}
+  - {fileID: 561300281}
   - {fileID: 561300218}
   - {fileID: 561300274}
   suppressAllAutoSelections: 0
@@ -2444,19 +2457,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 594.511, y: 22.71246}
+  scrollPos: {x: 625.3255, y: -123.36841}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.64000034
+  zoom: 0.6100004
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 561300224}
+  selectedCommands:
+  - {fileID: 561300278}
   variables:
   - {fileID: 561300215}
   - {fileID: 561300230}
@@ -2504,7 +2519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 322.02396
     y: 444.53772
-    width: 117.18746
+    width: 72.95078
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2515,6 +2530,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 561300269}
   - {fileID: 561300265}
+  - {fileID: 561300278}
   - {fileID: 561300268}
   suppressAllAutoSelections: 0
 --- !u!114 &561300225
@@ -5925,7 +5941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 18
   indentLevel: 0
-  storyText: Try clicking the bookshelf, vase, and TV
+  storyText: Lets haunt more items. Try clicking the bookshelf, vase, and TV.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5975,7 +5991,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 302.09848
     y: 211.25816
-    width: 139.8437
+    width: 93.93437
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6505,7 +6521,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 313.61716
     y: 310.78143
-    width: 139.06245
+    width: 93.93437
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6556,7 +6572,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 77.27342
     y: 320.487
-    width: 110.93747
+    width: 67.70488
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6589,7 +6605,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 44
   indentLevel: 0
-  storyText: Something something end tutorial. How many families can you scare?
+  storyText: You'll notice that different items increase the fear meter by different
+    amounts.
   description: 
   character: {fileID: 1701991534}
   portrait: {fileID: 0}
@@ -6636,7 +6653,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 321.59503
     y: 536.05133
-    width: 113.28122
+    width: 71.639305
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6836,7 +6853,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 500.61716
     y: 312.78143
-    width: 98.43747
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7916,6 +7933,144 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 1
+--- !u!114 &561300278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 78
+  indentLevel: 0
+  storyText: You're ready to scare some families. How many generations can you scare?
+  description: 
+  character: {fileID: 1701991534}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &561300279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 77
+  indentLevel: 2
+  storyText: In the top right is a timer. You only have a certain amount of time
+    to scare each family. And with each new family, you'll have even less time.
+  description: 
+  character: {fileID: 1701991534}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &561300280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 76
+  indentLevel: 2
+  storyText: When the meter is full, the family will move out. However, the meter
+    will keep falling, so you'll need to keep haunting.
+  description: 
+  character: {fileID: 1701991534}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &561300281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 75
+  indentLevel: 0
+  storyText: So, you need to scare these families out of your house.
+  description: 
+  character: {fileID: 1701991534}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &561300282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561300208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 74
+  indentLevel: 0
+  storyText: That ability will be helpful to you. You see, people keep moving into
+    your house. You don't want them there.
+  description: 
+  character: {fileID: 1701991534}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1001 &563197610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13077,8 +13232,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.78700006}
-  m_AnchoredPosition: {x: 3, y: 14.130005}
-  m_SizeDelta: {x: -61, y: -63}
+  m_AnchoredPosition: {x: 3, y: 37.750023}
+  m_SizeDelta: {x: -61, y: -4.499954}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &2113443756 stripped
 Transform:
