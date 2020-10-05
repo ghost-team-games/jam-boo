@@ -528,10 +528,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<size=25>Team</size>\nIsaiah Mann\n\tProgrammer\n\nLiz\n\tArtist\n\nMartha
-    Hollister\n\tDesigner\n\tProgrammer\n\nShanique Thompson\n\tUI Artist\n\n<size=22>Additional
-    Resources</size>\n<size=15>Fungus by Fungus Games\nSpooky Font by Jammycreamer\nElements
-    Supremacy by Erikari</size>"
+  m_Text: "<size=25>Team</size>\nElizabeth Darragh\n\tArtist\n\nMartha Hollister\n\tDesigner\n\tProgrammer\n\nIsaiah
+    Mann\n\tProgrammer\n\nShanique Thompson\n\tUI Artist\n\n<size=22>Additional Resources</size>\n<size=15>Fungus
+    by Fungus Games\nSpooky Font by Jammycreamer\nElements Supremacy by Erikari</size>"
 --- !u!222 &776527680
 CanvasRenderer:
   m_ObjectHideFlags: 0
