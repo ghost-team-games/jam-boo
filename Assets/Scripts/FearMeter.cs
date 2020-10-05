@@ -1,5 +1,6 @@
 ﻿using Fungus;
 using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -80,11 +81,17 @@ public class FearMeter : MonoBehaviour
 
     private void ResetFear()
     {
-        fear = 0;
+        StartCoroutine(ResetBuffer());
     }
 
     private void UpdateFearMeter()
     {
         fearMeterFill.fillAmount = fear / maxFear;
+    }
+
+    private IEnumerator ResetBuffer()
+    {
+        yield return new WaitForSeconds(0.25f);
+        fear = 0;
     }
 }
