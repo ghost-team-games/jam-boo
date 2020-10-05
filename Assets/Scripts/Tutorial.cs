@@ -16,6 +16,11 @@ public class Tutorial : MonoBehaviour
     [Header("Debug")]
     [SerializeField]
     bool disableTutorial = false;
+    [SerializeField]
+    bool alwaysShowTutorial = false;
+    [Tooltip("Check this to reset first run")]
+    [SerializeField]
+    bool resetFirstRun= false;
 
     // Start is called before the first frame update
     void Awake()
@@ -25,12 +30,14 @@ public class Tutorial : MonoBehaviour
             return;
         }
 
-        firstRun = PlayerPrefs.GetInt("firstRun");
+        firstRun = PlayerPrefs.GetInt("firstRun", 0);
         //inTutorial = false;
 
-        //if(firstRun == 0)
-        //{
-        //    PlayerPrefs.SetInt("firstRun", 1);
+        if(firstRun == 0 || alwaysShowTutorial)
+        {
+            PlayerPrefs.SetInt("firstRun", 1);
+            RunTutorial();
+        }
         //    PlayerPrefs.SetInt("HighScore", 0);
         //    //run tutorial
         //    RunTutorial();
@@ -39,14 +46,6 @@ public class Tutorial : MonoBehaviour
         //{
         //    //start game
         //}
-
-        RunTutorial();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     void RunTutorial()
@@ -60,5 +59,15 @@ public class Tutorial : MonoBehaviour
     {
         state.Play();
         inTutorial = false;
+    }
+
+    void OnValidate()
+    {
+        if(resetFirstRun)
+        {
+            PlayerPrefs.SetInt("firstRun", 0);
+            resetFirstRun = false;
+            Debug.Log("Resetting 'firstRun' to run tutorial again");
+        }
     }
 }
