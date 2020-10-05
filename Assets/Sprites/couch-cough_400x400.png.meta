@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 9bff36cb28bcb44d29a23d76c430aeac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8379973156233385026
+    second: couch-cough_400x400_0
+  - first:
+      213: 4806479536999985394
+    second: couch-cough_400x400_1
+  - first:
+      213: -2835217547037616230
+    second: couch-cough_400x400_2
+  - first:
+      213: 5176567628466000779
+    second: couch-cough_400x400_3
+  - first:
+      213: -356983509801044679
+    second: couch-cough_400x400_4
+  - first:
+      213: 4559697339958120866
+    second: couch-cough_400x400_5
+  - first:
+      213: -7828457161121761081
+    second: couch-cough_400x400_6
+  - first:
+      213: 8304580714663829405
+    second: couch-cough_400x400_7
+  - first:
+      213: 378958036583334766
+    second: couch-cough_400x400_8
+  - first:
+      213: 4229361664080007984
+    second: couch-cough_400x400_9
+  - first:
+      213: -541387786177590356
+    second: couch-cough_400x400_10
+  - first:
+      213: 4304959617025481572
+    second: couch-cough_400x400_11
+  - first:
+      213: -3453864705626316037
+    second: couch-cough_400x400_12
+  - first:
+      213: -7689517699226418280
+    second: couch-cough_400x400_13
+  - first:
+      213: 3204545056831355919
+    second: couch-cough_400x400_14
+  - first:
+      213: -8921596269665636441
+    second: couch-cough_400x400_15
+  - first:
+      213: -6851369460708838917
+    second: couch-cough_400x400_16
+  - first:
+      213: -149330610407802973
+    second: couch-cough_400x400_17
+  - first:
+      213: -5118125418741679451
+    second: couch-cough_400x400_18
+  - first:
+      213: 2779940083151523272
+    second: couch-cough_400x400_19
+  - first:
+      213: 7736903036842277645
+    second: couch-cough_400x400_20
+  - first:
+      213: -1951962540125997459
+    second: couch-cough_400x400_21
+  - first:
+      213: -468685261196858417
+    second: couch-cough_400x400_22
+  - first:
+      213: -8405679410676824409
+    second: couch-cough_400x400_23
+  - first:
+      213: 3952625140816198931
+    second: couch-cough_400x400_24
+  - first:
+      213: 1077176286842232470
+    second: couch-cough_400x400_25
+  - first:
+      213: 1170975623535715780
+    second: couch-cough_400x400_26
+  - first:
+      213: 1856122231927956334
+    second: couch-cough_400x400_27
+  - first:
+      213: -7948800120353392688
+    second: couch-cough_400x400_28
+  - first:
+      213: -1118975728744221944
+    second: couch-cough_400x400_29
+  - first:
+      213: 8084664090457806467
+    second: couch-cough_400x400_30
+  - first:
+      213: 8662888069365999994
+    second: couch-cough_400x400_31
+  - first:
+      213: -3184926969789138749
+    second: couch-cough_400x400_32
+  - first:
+      213: 8951404915555213611
+    second: couch-cough_400x400_33
+  - first:
+      213: -2323006332529252988
+    second: couch-cough_400x400_34
+  - first:
+      213: -4099683800600049138
+    second: couch-cough_400x400_35
+  - first:
+      213: 3714582677532196068
+    second: couch-cough_400x400_36
+  - first:
+      213: 8270956517123198538
+    second: couch-cough_400x400_37
+  - first:
+      213: 7536686012437804726
+    second: couch-cough_400x400_38
+  - first:
+      213: 7092034821956816506
+    second: couch-cough_400x400_39
+  - first:
+      213: 1570249509156539535
+    second: couch-cough_400x400_40
+  - first:
+      213: -5908753622648404672
+    second: couch-cough_400x400_41
+  - first:
+      213: -5849737465131092826
+    second: couch-cough_400x400_42
+  - first:
+      213: 5095191652886919903
+    second: couch-cough_400x400_43
+  - first:
+      213: 193018017833854202
+    second: couch-cough_400x400_44
+  - first:
+      213: -2795613196138737293
+    second: couch-cough_400x400_45
+  - first:
+      213: 2721939602795569815
+    second: couch-cough_400x400_46
+  - first:
+      213: -2016515669193075521
+    second: couch-cough_400x400_47
+  - first:
+      213: -721236817813264651
+    second: couch-cough_400x400_48
+  - first:
+      213: 7121951458688093320
+    second: couch-cough_400x400_49
+  - first:
+      213: -6512784631401975614
+    second: couch-cough_400x400_50
+  - first:
+      213: -3304269114439998979
+    second: couch-cough_400x400_51
+  - first:
+      213: -2009669306891243977
+    second: couch-cough_400x400_52
+  - first:
+      213: 2990105027201667286
+    second: couch-cough_400x400_53
+  - first:
+      213: -5250113344313124889
+    second: couch-cough_400x400_54
+  - first:
+      213: -1045515991290593486
+    second: couch-cough_400x400_55
+  - first:
+      213: 6778941943738121133
+    second: couch-cough_400x400_56
+  - first:
+      213: -7172945145582122873
+    second: couch-cough_400x400_57
+  - first:
+      213: 4266008820218854311
+    second: couch-cough_400x400_58
+  - first:
+      213: -1356234505173417602
+    second: couch-cough_400x400_59
+  - first:
+      213: 8476027194598628981
+    second: couch-cough_400x400_60
+  - first:
+      213: 4836466180076598377
+    second: couch-cough_400x400_61
+  - first:
+      213: -5828645023128331313
+    second: couch-cough_400x400_62
+  - first:
+      213: -2228807981649341080
+    second: couch-cough_400x400_63
+  - first:
+      213: -8638110740201623205
+    second: couch-cough_400x400_64
+  - first:
+      213: -966116141402197938
+    second: couch-cough_400x400_65
+  - first:
+      213: -473372007274558963
+    second: couch-cough_400x400_66
+  - first:
+      213: 4854580730847423255
+    second: couch-cough_400x400_67
+  - first:
+      213: -5391892141129747430
+    second: couch-cough_400x400_68
+  - first:
+      213: -1052965289241361574
+    second: couch-cough_400x400_69
+  - first:
+      213: 5814918925408476024
+    second: couch-cough_400x400_70
+  - first:
+      213: 1922322496529625497
+    second: couch-cough_400x400_71
+  - first:
+      213: 6526012979140856522
+    second: couch-cough_400x400_72
+  - first:
+      213: -5615969780956374764
+    second: couch-cough_400x400_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: couch-cough_400x400_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb666b30da54bb80800000000000000
+      internalID: -8379973156233385026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0711f4cab04b240800000000000000
+      internalID: 4806479536999985394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975edf99a847a8d0800000000000000
+      internalID: -2835217547037616230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83908ad4dcd6d740800000000000000
+      internalID: 5176567628466000779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f2a3a36dbb0bf0800000000000000
+      internalID: -356983509801044679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15f77829c474f30800000000000000
+      internalID: 4559697339958120866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c879fb50bbbb5390800000000000000
+      internalID: -7828457161121761081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd812192ccf3370800000000000000
+      internalID: 8304580714663829405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6344539354524500800000000000000
+      internalID: 378958036583334766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d42e7606b1ba30800000000000000
+      internalID: 4229361664080007984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab46274daa9c78f0800000000000000
+      internalID: -541387786177590356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b943986f94ebb30800000000000000
+      internalID: 4304959617025481572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf262ee79586110d0800000000000000
+      internalID: -3453864705626316037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c783b468594590800000000000000
+      internalID: -7689517699226418280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cba2330c4d87c20800000000000000
+      internalID: 3204545056831355919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_15
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af212d167f103480800000000000000
+      internalID: -8921596269665636441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17d7d86cb0be0a0800000000000000
+      internalID: -6851369460708838917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_17
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7fc8cd9987dedf0800000000000000
+      internalID: -149330610407802973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_18
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa31047c04c8f8b0800000000000000
+      internalID: -5118125418741679451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdcd11e6c4549620800000000000000
+      internalID: 2779940083151523272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bff94f1500f5b60800000000000000
+      internalID: 7736903036842277645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66bbe4696c39e4e0800000000000000
+      internalID: -1951962540125997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb66e6fc35ee79f0800000000000000
+      internalID: -468685261196858417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60bc67c17095b80800000000000000
+      internalID: -8405679410676824409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db0a8af9b8ad630800000000000000
+      internalID: 3952625140816198931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e94b13026e2fe00800000000000000
+      internalID: 1077176286842232470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ec712024204010800000000000000
+      internalID: 1170975623535715780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_27
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6365c5f55542c910800000000000000
+      internalID: 1856122231927956334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_28
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7f0c3b76030b190800000000000000
+      internalID: -7948800120353392688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_29
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803bae7d0899870f0800000000000000
+      internalID: -1118975728744221944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3861818e72f723070800000000000000
+      internalID: 8084664090457806467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a7871dc2c83870800000000000000
+      internalID: 8662888069365999994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83822abcddcc3d0800000000000000
+      internalID: -3184926969789138749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21aa581857c93c70800000000000000
+      internalID: 8951404915555213611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856c926c0603cfd0800000000000000
+      internalID: -2323006332529252988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_35
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8fcded4ffa17c0800000000000000
+      internalID: -4099683800600049138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_36
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3027b349dc8330800000000000000
+      internalID: 3714582677532196068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_37
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e84d3812758c270800000000000000
+      internalID: 8270956517123198538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_38
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b20b4fffa79860800000000000000
+      internalID: 7536686012437804726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_39
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2496
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecf696818fb6260800000000000000
+      internalID: 7092034821956816506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cc10aeb95aac510800000000000000
+      internalID: 1570249509156539535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454db8d2e3effda0800000000000000
+      internalID: -5908753622648404672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a43199c4ce81dea0800000000000000
+      internalID: -5849737465131092826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3cd410d1c5b640800000000000000
+      internalID: 5095191652886919903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ac345ddcbda200800000000000000
+      internalID: 193018017833854202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_45
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37191c22c9cf339d0800000000000000
+      internalID: -2795613196138737293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a2b4b5a546c520800000000000000
+      internalID: 2721939602795569815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_47
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4dcbdcea5e304e0800000000000000
+      internalID: -2016515669193075521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_48
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ae4b7fe6adf5f0800000000000000
+      internalID: -721236817813264651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_49
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2096
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ccda23e1146d260800000000000000
+      internalID: 7121951458688093320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c079aa42e0fd95a0800000000000000
+      internalID: -6512784631401975614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df162874fb0e422d0800000000000000
+      internalID: -3304269114439998979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eedbeb9683c14e0800000000000000
+      internalID: -2009669306891243977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_53
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d017731eacfe7920800000000000000
+      internalID: 2990105027201667286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79da9cab9d327b0800000000000000
+      internalID: -5250113344313124889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_55
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f322cceb49d71f0800000000000000
+      internalID: -1045515991290593486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_56
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabb18d08c3a31e50800000000000000
+      internalID: 6778941943738121133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_57
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788073cd464947c90800000000000000
+      internalID: -7172945145582122873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_58
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf3d17b68e33b30800000000000000
+      internalID: 4266008820218854311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_59
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1696
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c20737efad2de0800000000000000
+      internalID: -1356234505173417602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e1a9853d5e0a570800000000000000
+      internalID: 8476027194598628981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f7a7bd549e1340800000000000000
+      internalID: 4836466180076598377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5692ab3e7c1fa0800000000000000
+      internalID: -5828645023128331313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655c3d03fea111e0800000000000000
+      internalID: -2228807981649341080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_64
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bbc76c044f1880800000000000000
+      internalID: -8638110740201623205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_65
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4073f3fc7aa792f0800000000000000
+      internalID: -966116141402197938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_66
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a49cbdaae3e69f0800000000000000
+      internalID: -473372007274558963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_67
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bed9b347fee5340800000000000000
+      internalID: 4854580730847423255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_68
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14bdb44aa62c25b0800000000000000
+      internalID: -5391892141129747430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_69
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1296
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c3f5f5ad1361f0800000000000000
+      internalID: -1052965289241361574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b1ba234fdb2b050800000000000000
+      internalID: 5814918925408476024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f36d20267daa10800000000000000
+      internalID: 1922322496529625497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_72
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca874d6a3e019a50800000000000000
+      internalID: 6526012979140856522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch-cough_400x400_73
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 896
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41954c82d311012b0800000000000000
+      internalID: -5615969780956374764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

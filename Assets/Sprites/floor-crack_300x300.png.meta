@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 34b02bbc1dead4edcb7b3d8fbacb3390
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5953596606856211814
+    second: floor-crack_300x300_0
+  - first:
+      213: -2831178540584772957
+    second: floor-crack_300x300_1
+  - first:
+      213: 3153244771428389687
+    second: floor-crack_300x300_2
+  - first:
+      213: -4308941184040578047
+    second: floor-crack_300x300_3
+  - first:
+      213: -3771339039771777955
+    second: floor-crack_300x300_4
+  - first:
+      213: 5843890515583121807
+    second: floor-crack_300x300_5
+  - first:
+      213: -352206716051835167
+    second: floor-crack_300x300_6
+  - first:
+      213: 1841065620828856662
+    second: floor-crack_300x300_7
+  - first:
+      213: -4978129777446701036
+    second: floor-crack_300x300_8
+  - first:
+      213: -1040757104430552278
+    second: floor-crack_300x300_9
+  - first:
+      213: -658307089295138665
+    second: floor-crack_300x300_10
+  - first:
+      213: 2580840542931129341
+    second: floor-crack_300x300_11
+  - first:
+      213: 683802858111884474
+    second: floor-crack_300x300_12
+  - first:
+      213: 6717155539323967298
+    second: floor-crack_300x300_13
+  - first:
+      213: 7633664547047358419
+    second: floor-crack_300x300_14
+  - first:
+      213: -8304026484883724467
+    second: floor-crack_300x300_15
+  - first:
+      213: 2349121779005882477
+    second: floor-crack_300x300_16
+  - first:
+      213: -8330266801117367027
+    second: floor-crack_300x300_17
+  - first:
+      213: 2090693063880331320
+    second: floor-crack_300x300_18
+  - first:
+      213: 1975950685750337259
+    second: floor-crack_300x300_19
+  - first:
+      213: -3523793134771479628
+    second: floor-crack_300x300_20
+  - first:
+      213: 6347942501539413032
+    second: floor-crack_300x300_21
+  - first:
+      213: -5941703535572007012
+    second: floor-crack_300x300_22
+  - first:
+      213: 5396698009777073449
+    second: floor-crack_300x300_23
+  - first:
+      213: -564830747549741164
+    second: floor-crack_300x300_24
+  - first:
+      213: 8076882566801553152
+    second: floor-crack_300x300_25
+  - first:
+      213: -2452445776474594583
+    second: floor-crack_300x300_26
+  - first:
+      213: 4386389495795637736
+    second: floor-crack_300x300_27
+  - first:
+      213: -4026878874526275811
+    second: floor-crack_300x300_28
+  - first:
+      213: -2723201712465236645
+    second: floor-crack_300x300_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor-crack_300x300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da2a7029c6f9250800000000000000
+      internalID: 5953596606856211814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5cb81e12a5b8d0800000000000000
+      internalID: -2831178540584772957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d8dab96392cb20800000000000000
+      internalID: 3153244771428389687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d537a2d09334c0800000000000000
+      internalID: -4308941184040578047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5427deef1389abc0800000000000000
+      internalID: -3771339039771777955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893b9f267ba91150800000000000000
+      internalID: 5843890515583121807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6393a9bd5bc1bf0800000000000000
+      internalID: -352206716051835167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65120b18d67cc8910800000000000000
+      internalID: 1841065620828856662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418be79b7512aeab0800000000000000
+      internalID: -4978129777446701036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be3fc7dec7e81f0800000000000000
+      internalID: -1040757104430552278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790217da0393dd6f0800000000000000
+      internalID: -658307089295138665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31657ccccf0d320800000000000000
+      internalID: 2580840542931129341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd726931b5d7900800000000000000
+      internalID: 683802858111884474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d37ebf51283d50800000000000000
+      internalID: 6717155539323967298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df304de57930f960800000000000000
+      internalID: 7633664547047358419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e11b98eb22cc80800000000000000
+      internalID: -8304026484883724467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6087c3dfc1c99020800000000000000
+      internalID: 2349121779005882477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057b23ea72f46c80800000000000000
+      internalID: -8330266801117367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d5feb342a30d10800000000000000
+      internalID: 2090693063880331320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee96ddfdacfb6b10800000000000000
+      internalID: 1975950685750337259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb5cf350d8f81fc0800000000000000
+      internalID: -3523793134771479628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7cd2821c681850800000000000000
+      internalID: 6347942501539413032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974c896d14da8da0800000000000000
+      internalID: -5941703535572007012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de1d83f3ce4ea40800000000000000
+      internalID: 5396698009777073449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f441e7d615928f0800000000000000
+      internalID: -564830747549741164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00770ceb6e9d61070800000000000000
+      internalID: 8076882566801553152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e223565f8927fdd0800000000000000
+      internalID: -2452445776474594583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed576f91069fdc30800000000000000
+      internalID: 4386389495795637736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17265abff6ad18c0800000000000000
+      internalID: -4026878874526275811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor-crack_300x300_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 548
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d26cc787e353ad0800000000000000
+      internalID: -2723201712465236645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
