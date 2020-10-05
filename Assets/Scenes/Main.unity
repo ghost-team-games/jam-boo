@@ -1117,9 +1117,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 7
   animationLength: 0
-  customFearAmount: 0
+  customFearAmount: 7
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!1 &275860986
@@ -8184,9 +8184,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 3
   animationLength: 0
-  customFearAmount: 0
+  customFearAmount: 3
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &612503661
@@ -8516,9 +8516,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 1
+  cooldownTimer: 2
   animationLength: 0
-  customFearAmount: 0
+  customFearAmount: 2
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &677130361
@@ -9022,9 +9022,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 10
   animationLength: 4.93
-  customFearAmount: 0
+  customFearAmount: 10
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &797475174
@@ -9446,9 +9446,9 @@ MonoBehaviour:
   - {fileID: 1491477005}
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 4
   animationLength: 3.7
-  customFearAmount: 0
+  customFearAmount: 4
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &935181552
@@ -11339,9 +11339,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 6
   animationLength: 2
-  customFearAmount: 0
+  customFearAmount: 6
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!95 &1650529270
@@ -12065,9 +12065,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 177699181}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 5
   animationLength: 3.3
-  customFearAmount: 0
+  customFearAmount: 5
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &1830426048
@@ -12345,9 +12345,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 9
   animationLength: 0
-  customFearAmount: 0
+  customFearAmount: 9
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!61 &1854669442
@@ -12714,9 +12714,9 @@ MonoBehaviour:
   hideOnHaunt: []
   animatorOverride: {fileID: 0}
   icon: {fileID: 385692253}
-  cooldownTimer: 0
+  cooldownTimer: 8
   animationLength: 0
-  customFearAmount: 0
+  customFearAmount: 8
   redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
   greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
 --- !u!1 &1926042620
