@@ -15,11 +15,15 @@ public class EndSceneController : MonoBehaviour
     [SerializeField]
     Text newHighScore;
 
+    [SerializeField]
+    Texture2D normalCursor;
+
     int gameScore;
     int highScore;
     void Start()
     {
-        if(PlayerPrefs.GetInt("HighScore") < PlayerPrefs.GetInt("Score"))
+        Cursor.SetCursor(normalCursor, Vector2.zero, CursorMode.Auto);
+        if (PlayerPrefs.GetInt("HighScore") < PlayerPrefs.GetInt("Score"))
         {
             PlayerPrefs.SetInt("HighScore", PlayerPrefs.GetInt("Score"));
             newHighScore.enabled = true;
