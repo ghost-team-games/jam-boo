@@ -493,7 +493,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -28}
+  m_AnchoredPosition: {x: 17, y: -23.446}
   m_SizeDelta: {x: 300, y: 350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &776527679
@@ -528,9 +528,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Team\nIsaiah Mann\n\tLead Programmer\nLiz\n\tArtist\nMartha Hollister\n\tDesigner\n\tAssistant
-    Programmer\nShanique Thompson\n\tUI Artist\n\nAdditional Resources\nFungus by
-    Fungus Games\n\nSpooky Font by Jammycreamer\n\nElements Supremacy by Erikari"
+  m_Text: "<size=25>Team</size>\nIsaiah Mann\n\tProgrammer\n\nLiz\n\tArtist\n\nMartha
+    Hollister\n\tDesigner\n\tProgrammer\n\nShanique Thompson\n\tUI Artist\n\n<size=22>Additional
+    Resources</size>\n<size=15>Fungus by Fungus Games\nSpooky Font by Jammycreamer\nElements
+    Supremacy by Erikari</size>"
 --- !u!222 &776527680
 CanvasRenderer:
   m_ObjectHideFlags: 0
