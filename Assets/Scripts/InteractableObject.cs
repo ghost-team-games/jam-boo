@@ -52,27 +52,34 @@ public class InteractableObject : MonoBehaviour
         
         if (!state.Paused || tutorial.inTutorial)
         {
-            if (cooldown == false)
+            if(cooldown == false)
             {
-                if(animator)
-                {
-                    HauntAnimation();
-                }
-                else
-                {
-                    StartCoroutine(CoolDownTimer(cooldownTimer));
-                }
-                cooldown = true;
-                if (customFearAmount > 0)
-                {
-                    fear.IncreaseFearByAmount(customFearAmount);
-                }
-                else
-                {
-                    fear.IncreaseFear();
-                }
+                Haunt();
             }
         }
+    }
+
+    void Haunt()
+    {
+        if(animator)
+        {
+            HauntAnimation();
+        }
+        else
+        {
+            StartCoroutine(CoolDownTimer(cooldownTimer));
+        }
+        cooldown = true;
+
+        if(customFearAmount > 0)
+        {
+            fear.IncreaseFearByAmount(customFearAmount);
+        }
+        else
+        {
+            fear.IncreaseFear();
+        }
+        state.HauntObject(this);
     }
 
     void HauntAnimation()
