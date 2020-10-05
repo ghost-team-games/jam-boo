@@ -12706,6 +12706,8 @@ MonoBehaviour:
   inTutorial: 0
   state: {fileID: 57679237}
   disableTutorial: 0
+  alwaysShowTutorial: 0
+  resetFirstRun: 0
 --- !u!4 &1926042622
 Transform:
   m_ObjectHideFlags: 0
@@ -12928,11 +12930,6 @@ PrefabInstance:
     - target: {fileID: 5079372167190494620, guid: 24b5975b218386240a0c8dfccd581091,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5079372167431450252, guid: 24b5975b218386240a0c8dfccd581091,
-        type: 3}
-      propertyPath: m_UiScaleMode
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
