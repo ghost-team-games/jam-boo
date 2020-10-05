@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 2c609e081ed5c4d208c9c2791f1797cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7298348740648365842
+    second: ghostly_cursor__0
+  - first:
+      213: 1319665870779171770
+    second: ghostly_cursor__1
+  - first:
+      213: 3511692397656789897
+    second: ghostly_cursor__2
+  - first:
+      213: -4120761643811494244
+    second: ghostly_cursor__3
+  - first:
+      213: 9182223254725980416
+    second: ghostly_cursor__4
+  - first:
+      213: -181209089822372763
+    second: ghostly_cursor__5
+  - first:
+      213: -5499230492036463178
+    second: ghostly_cursor__6
+  - first:
+      213: -2741604245428759138
+    second: ghostly_cursor__7
+  - first:
+      213: -2487541006624203117
+    second: ghostly_cursor__8
+  - first:
+      213: 8588550707350002816
+    second: ghostly_cursor__9
+  - first:
+      213: 3492208616730602566
+    second: ghostly_cursor__10
+  - first:
+      213: -7034616087841479925
+    second: ghostly_cursor__11
+  - first:
+      213: 8361867887965258019
+    second: ghostly_cursor__12
+  - first:
+      213: 8064068065389624748
+    second: ghostly_cursor__13
+  - first:
+      213: 2184170860337596888
+    second: ghostly_cursor__14
+  - first:
+      213: 1918740376833910706
+    second: ghostly_cursor__15
+  - first:
+      213: 7404812778533095698
+    second: ghostly_cursor__16
+  - first:
+      213: 987919108000310745
+    second: ghostly_cursor__17
+  - first:
+      213: 9199458852438358414
+    second: ghostly_cursor__18
+  - first:
+      213: 7107565676902622630
+    second: ghostly_cursor__19
+  - first:
+      213: 3057293329890557138
+    second: ghostly_cursor__20
+  - first:
+      213: -405589086335215144
+    second: ghostly_cursor__21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostly_cursor__1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 841
+        width: 322
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3cff91e15605210800000000000000
+      internalID: 1319665870779171770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 841
+        width: 394
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983d5c241a90cb030800000000000000
+      internalID: 3511692397656789897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 841
+        width: 318
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f542966fcd6f70800000000000000
+      internalID: 9182223254725980416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__6
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 789
+        width: 462
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58b20f00fcea3b0800000000000000
+      internalID: -5499230492036463178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 282
+        width: 322
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e52ff42aa7a7dd0800000000000000
+      internalID: -2487541006624203117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 282
+        width: 407
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd60f3d59a03770800000000000000
+      internalID: 8588550707350002816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 282
+        width: 318
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e5f860f5006e90800000000000000
+      internalID: -7034616087841479925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__13
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 231
+        width: 462
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadbe122e2359ef60800000000000000
+      internalID: 8064068065389624748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76261f43cb0aa10800000000000000
+      internalID: 1918740376833910706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2190dbc5dfd23c660800000000000000
+      internalID: 7404812778533095698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 92
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893961e51b0baf70800000000000000
+      internalID: 9199458852438358414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 82
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3c46d510bd6a20800000000000000
+      internalID: 3057293329890557138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_cursor__21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 104
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d638ffde0f5af0800000000000000
+      internalID: -405589086335215144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
