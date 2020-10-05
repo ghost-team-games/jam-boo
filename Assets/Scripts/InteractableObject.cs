@@ -20,6 +20,9 @@ public class InteractableObject : MonoBehaviour
     [SerializeField]
     Animator animatorOverride;
 
+    [SerializeField]
+    HauntIcon icon;
+
     public float cooldownTimer;
     public float animationLength;
     public float customFearAmount = 0;
@@ -30,7 +33,7 @@ public class InteractableObject : MonoBehaviour
     private bool cooldown;
     private Renderer rend;
     private Material baseMaterial;
-    private HauntIcon icon;
+    //private HauntIcon icon;
 
     // Start is called before the first frame update
     void Start()
@@ -40,7 +43,7 @@ public class InteractableObject : MonoBehaviour
         cooldown = false;
         rend = GetComponent<Renderer>();
         baseMaterial = GetComponent<Renderer>().material;
-        icon = GetComponentInChildren<HauntIcon>();
+        //icon = GetComponentInChildren<HauntIcon>();
     }
 
     // Update is called once per frame
@@ -98,28 +101,31 @@ public class InteractableObject : MonoBehaviour
     {
         if(cooldown)
         {
-            if(icon)
-            {
-                icon.ShowHauntDisabledIcon();
-            }
+            //if(icon)
+            //{
+            //    icon.ShowHauntDisabledIcon();
+            //}
+            icon.ShowHauntDisabledIcon();
             rend.material = redMaterial;
         }
         else
         {
-            if(icon)
-            {
-                icon.ShowHauntEnabledIcon();
-            }
+            //if(icon)
+            //{
+            //    icon.ShowHauntEnabledIcon();
+            //}
+            icon.ShowHauntEnabledIcon();
             rend.material = greenMaterial;
         }
     }
 
     private void OnMouseExit()
     {
-        if(icon)
-        {
-            icon.HideIcon();
-        }
+        //if(icon)
+        //{
+        //    icon.HideIcon();
+        //}
+        //icon.HideIcon();
         rend.material = baseMaterial;
     }
 
