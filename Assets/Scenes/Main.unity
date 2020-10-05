@@ -1618,6 +1618,9 @@ GameObject:
   m_Component:
   - component: {fileID: 499093089}
   - component: {fileID: 499093090}
+  - component: {fileID: 499093091}
+  - component: {fileID: 499093093}
+  - component: {fileID: 499093092}
   m_Layer: 0
   m_Name: curtain_R
   m_TagString: Untagged
@@ -1633,8 +1636,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 499093088}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.966, y: 0.32, z: 0}
-  m_LocalScale: {x: 0.50068194, y: 0.50068194, z: 0.50068194}
+  m_LocalPosition: {x: 2.4, y: 0.24, z: 0}
+  m_LocalScale: {x: 0.71394295, y: 0.71394295, z: 0.71394295}
   m_Children: []
   m_Father: {fileID: 1979295271}
   m_RootOrder: 10
@@ -1678,7 +1681,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 844f9bec54d674f789deedbcd91dbc4d, type: 3}
+  m_Sprite: {fileID: -551714614898877118, guid: 2a7f7e78c5dcd4926a8712fac01100cf,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1689,6 +1693,74 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &499093091
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499093088}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7827c8b691a7245a58d6d365ac30e24b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &499093092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499093088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdd4b99e39ece343855d6e4a91b722b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fear: {fileID: 952296565}
+  state: {fileID: 57679237}
+  tutorial: {fileID: 1926042621}
+  hideOnHaunt: []
+  animatorOverride: {fileID: 0}
+  icon: {fileID: 385692253}
+  cooldownTimer: 3
+  animationLength: 0.7
+  customFearAmount: 3
+  redMaterial: {fileID: 2100000, guid: cb4b9e0761d2a2747af45a2330954412, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 6d8239d0a1abf954194ab6782a01c193, type: 2}
+--- !u!61 &499093093
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499093088}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.99445933, y: 0.3933308}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4, y: 4}
+    newSize: {x: 1.89, y: 5.77}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.97209394, y: 3.2133384}
+  m_EdgeRadius: 0
 --- !u!1 &561300208
 GameObject:
   m_ObjectHideFlags: 0
@@ -9185,7 +9257,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8379973156233385026, guid: 9bff36cb28bcb44d29a23d76c430aeac,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -9299,7 +9371,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &809669575
 MonoBehaviour:
   m_ObjectHideFlags: 0
