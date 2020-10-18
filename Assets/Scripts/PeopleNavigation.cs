@@ -6,6 +6,7 @@ public class PeopleNavigation : MonoBehaviour
     public Vector3 ExitPosition;
 
     Transform[] walkMarkers;
+    Vector3 lastReturnedWalkMarker;
 
     private void Awake()
     {
@@ -14,6 +15,12 @@ public class PeopleNavigation : MonoBehaviour
 
     public Vector3 GetWanderDestination()
     {
-        return walkMarkers[Random.Range(0, walkMarkers.Length)].position;
+        Vector3 marker;
+        do
+        {
+            marker = walkMarkers[Random.Range(0, walkMarkers.Length)].position;
+        }
+        while(marker == lastReturnedWalkMarker);
+        return (lastReturnedWalkMarker = marker);
     }
 }
