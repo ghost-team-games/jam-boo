@@ -19,7 +19,6 @@ public class HauntIcon : MonoBehaviour
 
     private void Awake()
     {
-        PlayerSettings.defaultCursor = normalCursor;
         cursorMode = CursorMode.Auto;
         cursorPoint = Vector2.zero;
         HideIcon();
