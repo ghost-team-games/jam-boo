@@ -7,18 +7,13 @@ You've died, but that's ok, because you are now a ghost with ghostly powers. How
 Made for [Ludum Dare 47](https://ldjam.com/events/ludum-dare/47)
 
 ## Team
-Elizabeth Darragh
-_Artist_
+[Elizabeth Darragh](https://www.instagram.com/elsewence) >>> _Artist_
 
-Martha Hollister
-_Designer_
-_Programmer_
+[Martha Hollister](https://twitter.com/Martha_H) >>> _Designer_ && _Programmer_
 
-Isaiah Mann
-_Programmer_
+[Isaiah Mann](https://isaiahmann.com) >>> _Programmer_
 
-Shanique Thompson
-_UI Artist_
+[Shanique Thompson]() >>> _UI Artist_
 
 ## Additional Resources
 [Fungus by Fungus Games](https://fungusgames.com)
