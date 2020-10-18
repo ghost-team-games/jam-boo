@@ -9,13 +9,13 @@ Made for [Ludum Dare 47](https://ldjam.com/events/ludum-dare/47)
 ## Team
 [Elizabeth Darragh](https://www.instagram.com/elsewence) >>> _Artist_
 
-[Martha Hollister](https://twitter.com/Martha_H) >>> _Designer_ && _Programmer_
+[Martha Hollister](https://twitter.com/Martha_H) >>> _Designer && Programmer_
 
 [Isaiah Mann](https://isaiahmann.com) >>> _Programmer_
 
 [Shanique Thompson]() >>> _UI Artist_
 
 ## Additional Resources
-[Fungus by Fungus Games](https://fungusgames.com)
-[Spooky Font by Jammycreamer](https://www.fontspace.com/spooky-font-f30485)
-[Elements Supremacy by Erikari](https://erikari.itch.io/elements-supremacy-assets)
+1. [Fungus by Fungus Games](https://fungusgames.com)
+1. [Spooky Font by Jammycreamer](https://www.fontspace.com/spooky-font-f30485)
+1. [Elements Supremacy by Erikari](https://erikari.itch.io/elements-supremacy-assets)
