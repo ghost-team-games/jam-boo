@@ -4,7 +4,7 @@ Download the game FREE on itch.io: [https://mhollister.itch.io/propertygeist](ht
 ## Summary
 You've died, but that's ok, because you are now a ghost with ghostly powers. However, people keep moving into your house and ruining your eternal rest. Use your ghostly powers to scare the families as they move in.
 
-Made for [Ludum Dare 47](https://ldjam.com/events/ludum-dare/47)
+Made for [Ludum Dare 47](https://ldjam.com/events/ludum-dare/47)  
 
 ## Team
 [Elizabeth Darragh](https://www.instagram.com/elsewence) >>> _Artist_
@@ -13,7 +13,7 @@ Made for [Ludum Dare 47](https://ldjam.com/events/ludum-dare/47)
 
 [Isaiah Mann](https://isaiahmann.com) >>> _Programmer_
 
-[Shanique Thompson]() >>> _UI Artist_
+[Shanique Thompson](https://shani-t8.itch.io) >>> _UI Artist_
 
 ## Additional Resources
 1. [Fungus by Fungus Games](https://fungusgames.com)
