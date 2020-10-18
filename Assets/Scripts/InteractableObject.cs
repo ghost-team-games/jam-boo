@@ -101,19 +101,11 @@ public class InteractableObject : MonoBehaviour
     {
         if(cooldown)
         {
-            //if(icon)
-            //{
-            //    icon.ShowHauntDisabledIcon();
-            //}
             icon.ShowHauntDisabledIcon();
             rend.material = redMaterial;
         }
         else
         {
-            //if(icon)
-            //{
-            //    icon.ShowHauntEnabledIcon();
-            //}
             icon.ShowHauntEnabledIcon();
             rend.material = greenMaterial;
         }
@@ -121,11 +113,7 @@ public class InteractableObject : MonoBehaviour
 
     private void OnMouseExit()
     {
-        //if(icon)
-        //{
-        //    icon.HideIcon();
-        //}
-        //icon.HideIcon();
+        icon.HideIcon();
         rend.material = baseMaterial;
     }
 
