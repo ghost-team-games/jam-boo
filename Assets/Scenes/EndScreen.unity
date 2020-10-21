@@ -933,7 +933,7 @@ MonoBehaviour:
   mostGenerations: {fileID: 571881817}
   generationsSurvived: {fileID: 570792882}
   newHighScore: {fileID: 189182694}
-  normalCursor: {fileID: 2800000, guid: da3c70bd186544146ac650ef1ff552cc, type: 3}
+  normalCursor: {fileID: 2800000, guid: 6ab88075d5e062e47ba241d64238e845, type: 3}
 --- !u!1 &1205820158
 GameObject:
   m_ObjectHideFlags: 0
